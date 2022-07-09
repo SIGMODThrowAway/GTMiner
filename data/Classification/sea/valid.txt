@@ -1,0 +1,548 @@
+COL name VAL The Missing Piece COL categories VAL cafe 	0
+COL name VAL Thornton Place Box Office COL categories VAL ticket 	0
+COL name VAL Vermillion COL categories VAL gallery 	0
+COL name VAL Phnom Penh Market COL categories VAL grocery 	0
+COL name VAL 3rd Ave & Madison St COL categories VAL bus_stop 	0
+COL name VAL Moore Coffee COL categories VAL cafe 	0
+COL name VAL Vintage Timepieces COL categories VAL watches 	0
+COL name VAL Delridge Way SW & SW Hudson St COL categories VAL bus_stop 	0
+COL name VAL Staging Techniques COL categories VAL photo 	0
+COL name VAL Meridian Parking COL categories VAL parking_entrance 	0
+COL name VAL Pedego Seattle COL categories VAL bicycle 	0
+COL name VAL Subway COL categories VAL fast_food 	0
+COL name VAL Amazon.com Apollo COL categories VAL commercial 	1
+COL name VAL Mr West Cafe Bar COL categories VAL cafe 	0
+COL name VAL Emerald Grill COL categories VAL restaurant 	0
+COL name VAL Flowers COL categories VAL pub 	0
+COL name VAL A Dog's Dream COL categories VAL pet 	0
+COL name VAL T-Mobile COL categories VAL mobile_phone 	0
+COL name VAL Alterations Fit 4 U COL categories VAL tailor 	0
+COL name VAL Bartell Drugs COL categories VAL pharmacy 	0
+COL name VAL 9th Ave & Spring St COL categories VAL bus_stop 	0
+COL name VAL Little Free Sports Library COL categories VAL public_bookcase 	0
+COL name VAL NE Northgate Way & 15th Ave NE COL categories VAL bus_stop 	0
+COL name VAL Foreign National COL categories VAL bar 	0
+COL name VAL MOD Pizza COL categories VAL fast_food 	0
+COL name VAL James St & 5th Ave COL categories VAL bus_stop 	0
+COL name VAL Marcelo Alonso Brazilian Jiu-Jitsu COL categories VAL leisure 	0
+COL name VAL Vida Abundante COL categories VAL place_of_worship 	0
+COL name VAL The Flower Lady COL categories VAL florist 	0
+COL name VAL 5th Ave NE & NE Maple Leaf Pl COL categories VAL bus_stop 	0
+COL name VAL Washington State Acupuncture & Chinese Medicine Center - Therapeutic Chinese Massage & Injury Rehab COL categories VAL doctors 	0
+COL name VAL Little Free Library COL categories VAL public_bookcase 	0
+COL name VAL Beth's Cafe COL categories VAL restaurant 	0
+COL name VAL Boiling Point COL categories VAL restaurant 	0
+COL name VAL Soprano Antico COL categories VAL restaurant 	0
+COL name VAL Cool Guys COL categories VAL fast_food 	0
+COL name VAL Regatta Bar & Grille COL categories VAL bar 	0
+COL name VAL One Bite Cafe COL categories VAL cafe 	0
+COL name VAL Beach Dr SW & SW Beach Drive Ter COL categories VAL bus_stop 	0
+COL name VAL 24 Hour Fitness COL categories VAL leisure 	0
+COL name VAL Highline Medical Center COL categories VAL doctors 	0
+COL name VAL Ezell's Famous Chicken COL categories VAL fast_food 	0
+COL name VAL Seattle Team Shop COL categories VAL clothes 	0
+COL name VAL 24th Ave E & E Calhoun St COL categories VAL bus_stop 	0
+COL name VAL 1201 Western Building COL categories VAL building 	1
+COL name VAL E John St & 12th Ave E COL categories VAL bus_stop 	0
+COL name VAL Bartell Drugs COL categories VAL pharmacy 	0
+COL name VAL The Golden Olive COL categories VAL restaurant 	0
+COL name VAL Meridian Ave N & N 130th St COL categories VAL bus_stop 	0
+COL name VAL Great Dog Daycare COL categories VAL animal_boarding 	0
+COL name VAL J & J Collision COL categories VAL car_repair 	0
+COL name VAL Uptown Espresso COL categories VAL cafe 	0
+COL name VAL Diana's Market Kitchen COL categories VAL cafe 	0
+COL name VAL Untitled COL categories VAL artwork 	0
+COL name VAL A Pizza Mart - Downtown COL categories VAL Pizza 	0
+COL name VAL Jimmy John's COL categories VAL Sandwiches; Fast Food; Delis 	0
+COL name VAL Father and Son COL categories VAL artwork 	0
+COL name VAL Blue Water Taco Grill COL categories VAL fast_food 	0
+COL name VAL Bread of Life Mission COL categories VAL social_facility 	0
+COL name VAL Madison St & Summit Ave COL categories VAL bus_stop 	0
+COL name VAL NEKO Cat Cafe COL categories VAL cafe 	0
+COL name VAL Martin L King Jr Way & E Marion St COL categories VAL bus_stop 	0
+COL name VAL Wells Fargo COL categories VAL bank 	0
+COL name VAL B~side Foods COL categories VAL restaurant 	0
+COL name VAL Yummy Teriyaki COL categories VAL fast_food 	0
+COL name VAL The Blarney Stone Pub COL categories VAL pub 	0
+COL name VAL Goldfinch Tavern COL categories VAL Seafood; American (New); Cocktail Bars 	0
+COL name VAL Sand Dragon COL categories VAL artwork 	0
+COL name VAL NW 65th St & Division Ave NW COL categories VAL bus_stop 	0
+COL name VAL Yalla COL categories VAL restaurant 	0
+COL name VAL Bonobos COL categories VAL clothes 	0
+COL name VAL Bartell Drugs COL categories VAL pharmacy 	0
+COL name VAL Sound Associates Hearing Aid Center COL categories VAL hearing_aids 	0
+COL name VAL Latona Ave NE & NE 45th St COL categories VAL bus_stop 	0
+COL name VAL Il Bistro COL categories VAL restaurant 	0
+COL name VAL Grog COL categories VAL bar 	0
+COL name VAL Signal Services COL categories VAL office 	0
+COL name VAL Mann Building COL categories VAL building 	1
+COL name VAL Schoenfeld Furniture Store Building COL categories VAL building 	1
+COL name VAL Admiral Nails COL categories VAL hairdresser 	0
+COL name VAL Vino Verité COL categories VAL wine 	0
+COL name VAL Great State Burger - Downtown COL categories VAL restaurant 	0
+COL name VAL Welcome to the the Whale Trail COL categories VAL information 	0
+COL name VAL The Lookout COL categories VAL pub 	0
+COL name VAL W Blaine St & 27th Ave W COL categories VAL bus_stop 	0
+COL name VAL Concessions COL categories VAL fast_food 	0
+COL name VAL Iglesia de Restauración COL categories VAL place_of_worship 	0
+COL name VAL Bar Melusine COL categories VAL bar 	0
+COL name VAL Earl's Cuts and Styles COL categories VAL hairdresser 	0
+COL name VAL Pierre Chevrolet COL categories VAL car_repair 	0
+COL name VAL Community Jewels: Diamonds are Forever COL categories VAL artwork 	0
+COL name VAL Lark COL categories VAL restaurant 	0
+COL name VAL Walla Walla Farms COL categories VAL cafe 	0
+COL name VAL Latona Ave NE & NE 65th St COL categories VAL bus_stop 	0
+COL name VAL Food Mart COL categories VAL convenience 	0
+COL name VAL ActivSpace COL categories VAL office 	0
+COL name VAL ZoomCare COL categories VAL clinic 	0
+COL name VAL King's Deli & Grocery COL categories VAL convenience 	0
+COL name VAL The Red Onion COL categories VAL pub 	0
+COL name VAL Tacos Chukis COL categories VAL Tacos 	0
+COL name VAL East Union New Post Office COL categories VAL post_office 	0
+COL name VAL Couture Nails & Spa COL categories VAL beauty 	0
+COL name VAL Portage Bay Building COL categories VAL office 	1
+COL name VAL Graphic Design Sign & Awning COL categories VAL office 	0
+COL name VAL World Market COL categories VAL interior_decoration 	0
+COL name VAL Quaternery Research Center COL categories VAL office 	0
+COL name VAL 400 Fairview COL categories VAL building 	1
+COL name VAL Car Toys COL categories VAL car_parts 	0
+COL name VAL Tenoch Mexican Grill COL categories VAL restaurant 	0
+COL name VAL Chase COL categories VAL atm 	0
+COL name VAL W Mcgraw St & 3rd Ave W COL categories VAL bus_stop 	0
+COL name VAL Umpqua Bank COL categories VAL bank 	0
+COL name VAL Aslan Brewing Seattle COL categories VAL Breweries 	0
+COL name VAL Swedish Medical Center Ballard Campus COL categories VAL hospital 	1
+COL name VAL Marcella's La Boutique COL categories VAL clothes 	0
+COL name VAL 6th Ave W & W Crockett St COL categories VAL bus_stop 	0
+COL name VAL West Seattle Animal Hospital COL categories VAL veterinary 	0
+COL name VAL Campbell Building COL categories VAL building 	1
+COL name VAL Aveda COL categories VAL cosmetics 	0
+COL name VAL Willmott’s Ghost COL categories VAL restaurant 	0
+COL name VAL Future Vapor COL categories VAL tobacco 	0
+COL name VAL American Dance Institute COL categories VAL leisure 	0
+COL name VAL Cinnamon Works COL categories VAL bakery 	0
+COL name VAL Teriyaki Plus COL categories VAL fast_food 	0
+COL name VAL 705 Union Station COL categories VAL building 	1
+COL name VAL Evergreens COL categories VAL fast_food 	0
+COL name VAL Slate Coffee Roasters COL categories VAL Coffee & Tea; Coffee Roasteries 	0
+COL name VAL Space Needle COL categories VAL attraction 	1
+COL name VAL UPS COL categories VAL post_box 	0
+COL name VAL Mud Bay COL categories VAL pet 	0
+COL name VAL Arboretum Court COL categories VAL mall 	1
+COL name VAL ARA Collision - North Seattle COL categories VAL car_repair 	0
+COL name VAL WWII Memorial – Interrupted Journey COL categories VAL historic 	0
+COL name VAL Delridge Deli Mart COL categories VAL convenience 	0
+COL name VAL Wells Fargo COL categories VAL bank 	0
+COL name VAL Global Travel COL categories VAL travel_agency 	0
+COL name VAL Breezy Town Pizza COL categories VAL restaurant 	0
+COL name VAL Juno Therapeutics COL categories VAL office 	0
+COL name VAL Mercurial Apartments COL categories VAL apartments 	0
+COL name VAL Color One COL categories VAL photography 	0
+COL name VAL Roosevelt Way NE & NE 108th St COL categories VAL bus_stop 	0
+COL name VAL Chinook's at Salmon Bay COL categories VAL restaurant 	0
+COL name VAL N 85th St & Stone Ave N COL categories VAL bus_stop 	0
+COL name VAL Tram's Salon COL categories VAL beauty 	0
+COL name VAL Red Jet Films COL categories VAL office 	0
+COL name VAL W Mcgraw St & 6th Ave W COL categories VAL bus_stop 	0
+COL name VAL ZoomCare COL categories VAL clinic 	0
+COL name VAL Marriott Renaissance Hotel COL categories VAL hotel 	1
+COL name VAL Quality Auto Glass/Pacific Auto Detail COL categories VAL car_wash 	0
+COL name VAL Solution Chiropractic COL categories VAL healthcare 	0
+COL name VAL Seattle Plant Daddy COL categories VAL plants 	0
+COL name VAL Terry M. Wong COL categories VAL dentist 	0
+COL name VAL Cherry Consign COL categories VAL consignment 	0
+COL name VAL Broadway Nails COL categories VAL beauty 	0
+COL name VAL Gene Juarez COL categories VAL hairdresser 	0
+COL name VAL Emerald City Massage COL categories VAL massage 	0
+COL name VAL Top Pot Doughnuts COL categories VAL cafe 	0
+COL name VAL Curious Kidstuff COL categories VAL toys 	0
+COL name VAL Kanpai Sushi & Wine Bar COL categories VAL restaurant 	0
+COL name VAL Mathnasium COL categories VAL prep_school 	0
+COL name VAL Ada's Technical Books and Cafe COL categories VAL cafe 	0
+COL name VAL Volta COL categories VAL charging_station 	0
+COL name VAL Zipcar COL categories VAL car_sharing 	0
+COL name VAL B&N Fisheries Company COL categories VAL office 	0
+COL name VAL Spruce Apothecary COL categories VAL beauty 	0
+COL name VAL Kucumber COL categories VAL beauty 	0
+COL name VAL Add-a-Ball COL categories VAL bar 	0
+COL name VAL The Grinning Yogi COL categories VAL leisure 	0
+COL name VAL W Tilden St & 29th Ave W COL categories VAL bus_stop 	0
+COL name VAL Subway COL categories VAL fast_food 	0
+COL name VAL 15th Ave NE & NE 75th St COL categories VAL bus_stop 	0
+COL name VAL Associates in Behavioral Health COL categories VAL doctors 	0
+COL name VAL Downtown Seattle Medical Center COL categories VAL clinic 	0
+COL name VAL Streamline Tavern COL categories VAL pub 	0
+COL name VAL Seattle Fire Department COL categories VAL fire_station 	0
+COL name VAL Rite Aid COL categories VAL pharmacy 	0
+COL name VAL Globe Optical COL categories VAL optician 	0
+COL name VAL Glazer's Camera Rentals COL categories VAL photo 	0
+COL name VAL Maharaja Cuisine of India COL categories VAL restaurant 	0
+COL name VAL Limoncello Belltown COL categories VAL bakery 	0
+COL name VAL Vegan Haven COL categories VAL convenience 	0
+COL name VAL Ballard Time Shop COL categories VAL clocks 	0
+COL name VAL E Jefferson St & Broadway COL categories VAL bus_stop 	0
+COL name VAL The Cosmopolitan COL categories VAL building 	1
+COL name VAL James J. Hill Bust COL categories VAL artwork 	0
+COL name VAL 23rd Ave S & S Dearborn St COL categories VAL bus_stop 	0
+COL name VAL Wells Fargo COL categories VAL bank 	0
+COL name VAL Bill & Melinda Gates Foundation COL categories VAL office 	1
+COL name VAL Chelan Cafe COL categories VAL restaurant 	0
+COL name VAL 24th Ave E & Boyer Ave E COL categories VAL bus_stop 	0
+COL name VAL Union SLU Lower Parking Garage COL categories VAL parking_entrance 	0
+COL name VAL Jars Juice COL categories VAL beverages 	0
+COL name VAL Fremont Building COL categories VAL building 	1
+COL name VAL Palace Ballroom COL categories VAL restaurant 	0
+COL name VAL Seattle Drum School COL categories VAL music_school 	0
+COL name VAL Medical Dental Building COL categories VAL building 	1
+COL name VAL Jackalope Tex-Mex & Cantina COL categories VAL restaurant 	0
+COL name VAL E Madison St & 13th Ave COL categories VAL bus_stop 	0
+COL name VAL Little Free Library COL categories VAL public_bookcase 	0
+COL name VAL Harborview Medical Center COL categories VAL hospital 	1
+COL name VAL Italian Family Pizza COL categories VAL restaurant 	0
+COL name VAL Two Smiling Feet COL categories VAL beauty 	0
+COL name VAL King Street Southern Baptist Church COL categories VAL place_of_worship 	0
+COL name VAL Bad Bishop COL categories VAL pub 	0
+COL name VAL Blazing Bagels COL categories VAL fast_food 	0
+COL name VAL NW Sports Rehab COL categories VAL healthcare 	0
+COL name VAL Milk Drunk COL categories VAL restaurant 	0
+COL name VAL Public Sink COL categories VAL public_bath 	0
+COL name VAL Schooner Brewing COL categories VAL pub 	0
+COL name VAL Seattle Changing Room COL categories VAL leisure 	0
+COL name VAL Crew Cuts Hair Salon COL categories VAL hairdresser 	0
+COL name VAL Petra Mediterranean Bistro COL categories VAL fast_food 	0
+COL name VAL Fitness 19 COL categories VAL leisure 	0
+COL name VAL SODO Busway & S Royal Brougham Way COL categories VAL bus_stop 	0
+COL name VAL Evergreen Massage COL categories VAL massage 	0
+COL name VAL Rick's Cafe COL categories VAL ice_cream 	0
+COL name VAL 32nd Ave NW & NW Market St COL categories VAL bus_stop 	0
+COL name VAL Sail Sand Point COL categories VAL boat_rental 	0
+COL name VAL Emerald City Aikido COL categories VAL leisure 	0
+COL name VAL Triple R Brewing Alley Tavern COL categories VAL pub 	0
+COL name VAL S & L Cafe COL categories VAL cafe 	0
+COL name VAL West Viewmont Way W & W Dravus St COL categories VAL bus_stop 	0
+COL name VAL Polished Boutique Spa COL categories VAL beauty 	0
+COL name VAL Urban Luxe Cafe COL categories VAL cafe 	0
+COL name VAL Hilltop Ale House COL categories VAL pub 	0
+COL name VAL 9th Ave & Cherry St COL categories VAL bus_stop 	0
+COL name VAL Cornuto COL categories VAL restaurant 	0
+COL name VAL 3rd Ave NW & NW 105th St COL categories VAL bus_stop 	0
+COL name VAL Aurora Ave N & N 95th St COL categories VAL bus_stop 	0
+COL name VAL Supercuts COL categories VAL hairdresser 	0
+COL name VAL Jackson Square Condos COL categories VAL building 	1
+COL name VAL Albacha Restaurant COL categories VAL restaurant 	0
+COL name VAL Playground Artwork COL categories VAL artwork 	0
+COL name VAL Central Building COL categories VAL building 	1
+COL name VAL NE Ravenna Blvd & Roosevelt Way NE COL categories VAL bus_stop 	0
+COL name VAL Regent Bakery and Café COL categories VAL restaurant 	0
+COL name VAL Zipcar COL categories VAL car_sharing 	0
+COL name VAL MoPOP: Museum of Pop Culture COL categories VAL museum 	1
+COL name VAL the Waltz COL categories VAL artwork 	0
+COL name VAL Starbucks COL categories VAL cafe 	0
+COL name VAL Sponge School COL categories VAL school 	0
+COL name VAL Wild Rye COL categories VAL cafe 	0
+COL name VAL Melissa Kiepke Music COL categories VAL office 	0
+COL name VAL Lil Woody's COL categories VAL restaurant 	0
+COL name VAL Lantz Medical Massage COL categories VAL massage 	0
+COL name VAL Seattle Mattress Company COL categories VAL furniture 	0
+COL name VAL Rapport COL categories VAL restaurant 	0
+COL name VAL Star Fusion & Bar COL categories VAL restaurant 	0
+COL name VAL Zaki Mediterranean Grill COL categories VAL restaurant 	0
+COL name VAL UW Bike Locker Location 16 COL categories VAL bicycle_parking 	0
+COL name VAL Spring St & 4th Ave COL categories VAL bus_stop 	0
+COL name VAL FleetPride COL categories VAL office 	0
+COL name VAL Village Sushi COL categories VAL restaurant 	0
+COL name VAL Madison Park Jewelers COL categories VAL jewelry 	0
+COL name VAL State Farm COL categories VAL office 	0
+COL name VAL The Central Saloon COL categories VAL pub 	0
+COL name VAL Leary Ave NW & NW Ione Pl COL categories VAL bus_stop 	0
+COL name VAL I Love Teriyaki COL categories VAL fast_food 	0
+COL name VAL University District Food Bank COL categories VAL social_facility 	0
+COL name VAL Taco Del Mar COL categories VAL fast_food 	0
+COL name VAL Plaza 600 COL categories VAL commercial 	1
+COL name VAL Red Sun Moto COL categories VAL motorcycle 	0
+COL name VAL Heath Printers COL categories VAL building 	1
+COL name VAL Royal Nails COL categories VAL beauty 	0
+COL name VAL Sleight of Hand Cellars COL categories VAL wine 	0
+COL name VAL Adey Abeba COL categories VAL restaurant 	0
+COL name VAL Perihelion Brewery COL categories VAL pub 	0
+COL name VAL Ravenna Ave NE & Ravenna Pl NE COL categories VAL bus_stop 	0
+COL name VAL Hair on Holman COL categories VAL hairdresser 	0
+COL name VAL University of Washington Medical Center - Montlake COL categories VAL hospital 	1
+COL name VAL Persephone Unbound COL categories VAL artwork 	0
+COL name VAL Seattle Gymnastics Academy Shiveley Gym COL categories VAL leisure 	0
+COL name VAL Bank of America COL categories VAL atm 	0
+COL name VAL Big Top Curiosity Shop COL categories VAL gift 	0
+COL name VAL Hotel Monaco Seattle COL categories VAL hotel 	1
+COL name VAL Garden Path COL categories VAL artwork 	0
+COL name VAL Rain Shadow Meats COL categories VAL butcher 	0
+COL name VAL Modern Design Sofas COL categories VAL furniture 	0
+COL name VAL Cookie's Country Chicken COL categories VAL restaurant 	0
+COL name VAL Herb & Bitter Public House COL categories VAL restaurant 	0
+COL name VAL Ivar Feeding The Gulls COL categories VAL artwork 	0
+COL name VAL Cultivate COL categories VAL restaurant 	0
+COL name VAL Neva's Barber Shop COL categories VAL hairdresser 	0
+COL name VAL Food Mart COL categories VAL convenience 	0
+COL name VAL SODO Busway & S Spokane St COL categories VAL bus_stop 	0
+COL name VAL Siren Tavern COL categories VAL bar 	0
+COL name VAL Ollie Quinn COL categories VAL optician 	0
+COL name VAL Speed-E-mart COL categories VAL convenience 	0
+COL name VAL Connect Lounge COL categories VAL bar 	0
+COL name VAL Shanti Threading Salon COL categories VAL beauty 	0
+COL name VAL U.S. Bank COL categories VAL bank 	0
+COL name VAL Rusted Vase Floral Co. COL categories VAL florist 	0
+COL name VAL Pain Treatment & Wellness Center COL categories VAL healthcare 	0
+COL name VAL Byrd Barr Place COL categories VAL building 	1
+COL name VAL Little Free Library COL categories VAL public_bookcase 	0
+COL name VAL QFC Parking Lot COL categories VAL parking 	0
+COL name VAL Egan's Ballard Jam House COL categories VAL nightclub 	0
+COL name VAL Dr. Sunny Kim, DDS COL categories VAL dentist 	0
+COL name VAL E Pine St & 15th Ave COL categories VAL bus_stop 	0
+COL name VAL Wallingford Ave N & N 37th St COL categories VAL bus_stop 	0
+COL name VAL Arrivé COL categories VAL building 	1
+COL name VAL Spa Phoebe COL categories VAL beauty 	0
+COL name VAL House of Vartan COL categories VAL beauty 	0
+COL name VAL United Confederate Veterans Memorial COL categories VAL historic 	0
+COL name VAL Periscope Tree COL categories VAL artwork 	0
+COL name VAL The Cookie Counter COL categories VAL cafe 	0
+COL name VAL SW Genesee St & 53rd Ave SW COL categories VAL bus_stop 	0
+COL name VAL Aurora Ave N & N 91st St COL categories VAL bus_stop 	0
+COL name VAL Robert A Christophel, CPA COL categories VAL office 	0
+COL name VAL Sheraton Seattle COL categories VAL hotel 	1
+COL name VAL Veggie Grill COL categories VAL fast_food 	0
+COL name VAL Monterey Lofts COL categories VAL building 	1
+COL name VAL 1st Ave N & Mercer St COL categories VAL bus_stop 	0
+COL name VAL Goodwill COL categories VAL charity 	0
+COL name VAL Be's Restaurant COL categories VAL restaurant 	0
+COL name VAL Ernest Jonson & Co COL categories VAL office 	0
+COL name VAL Almanqal Mediterranean Grill COL categories VAL restaurant 	0
+COL name VAL Martin L King Jr Way S & S Myrtle St COL categories VAL bus_stop 	0
+COL name VAL N 130th St & Meridian Ave N COL categories VAL bus_stop 	0
+COL name VAL S Mcclellan St & 31st Ave S COL categories VAL bus_stop 	0
+COL name VAL GameStop COL categories VAL video_games 	0
+COL name VAL Flora Bakehouse COL categories VAL cafe 	0
+COL name VAL Link Dentistry COL categories VAL dentist 	0
+COL name VAL Specialty Eyecare Group COL categories VAL optician 	0
+COL name VAL OSKA COL categories VAL clothes 	0
+COL name VAL Hotel Andra COL categories VAL hotel 	1
+COL name VAL The Baltic Room COL categories VAL bar 	0
+COL name VAL C Art Gallery COL categories VAL gallery 	0
+COL name VAL Downtown Emergency Service Center COL categories VAL social_facility 	0
+COL name VAL E Madison St & 22nd Ave COL categories VAL bus_stop 	0
+COL name VAL Shine in the Market COL categories VAL hairdresser 	0
+COL name VAL Quest Factor COL categories VAL leisure 	0
+COL name VAL Maia Midwifery & Fertility COL categories VAL clinic 	0
+COL name VAL Fauntleroy Way SW & SW Dawson St COL categories VAL bus_stop 	0
+COL name VAL Peter H. Yi COL categories VAL dentist 	0
+COL name VAL Thaprachan COL categories VAL restaurant 	0
+COL name VAL Tran’s Accounting & Tax Service COL categories VAL office 	0
+COL name VAL Park's Food Mart COL categories VAL convenience 	0
+COL name VAL Arrow Beauty COL categories VAL beauty 	0
+COL name VAL The Reef Cannabis COL categories VAL convenience 	0
+COL name VAL Araya's Place COL categories VAL restaurant 	0
+COL name VAL H&R Block COL categories VAL office 	0
+COL name VAL Local Tide COL categories VAL Seafood; Sandwiches; Salad 	0
+COL name VAL North Seattle Fives Preschool COL categories VAL kindergarten 	0
+COL name VAL TM Dessert Works COL categories VAL confectionery 	0
+COL name VAL Electrical Engineering COL categories VAL office 	0
+COL name VAL Yesler Building COL categories VAL building 	1
+COL name VAL Jupiter Bar COL categories VAL bar 	0
+COL name VAL Cafe Con Todo COL categories VAL cafe 	0
+COL name VAL Beach Dr SW & SW Beach Drive Ter COL categories VAL bus_stop 	0
+COL name VAL The Commons at Ballard COL categories VAL parking 	0
+COL name VAL Thai Star Restaurant COL categories VAL restaurant 	0
+COL name VAL Love + Flour COL categories VAL cafe 	0
+COL name VAL State Farm COL categories VAL office 	0
+COL name VAL Learners Building COL categories VAL building 	1
+COL name VAL The Lodge Sports Grille COL categories VAL restaurant 	0
+COL name VAL Assistance League of Seattle COL categories VAL social_facility 	0
+COL name VAL CorePower Yoga COL categories VAL leisure 	0
+COL name VAL Boylston Ave E & E Roanoke St COL categories VAL bus_stop 	0
+COL name VAL Superior Transmission COL categories VAL car_repair 	0
+COL name VAL Piroshki On Madison COL categories VAL Bakeries; Russian; Ukrainian 	0
+COL name VAL KeyBank COL categories VAL bank 	0
+COL name VAL S Cloverdale St & 8th Ave S COL categories VAL bus_stop 	0
+COL name VAL S Jackson St & 12th Ave S COL categories VAL bus_stop 	0
+COL name VAL Biscuit Bitch - Belltown COL categories VAL cafe 	0
+COL name VAL Flame Catering Cafe COL categories VAL cafe 	0
+COL name VAL Massage Reimagined COL categories VAL massage 	0
+COL name VAL Dan N. Fiorito III COL categories VAL office 	0
+COL name VAL Lincoln Park and Colman Pool Map COL categories VAL information 	0
+COL name VAL Untitled COL categories VAL artwork 	0
+COL name VAL Greenwood Ave N & N 97th St COL categories VAL bus_stop 	0
+COL name VAL Second Avenue Additions COL categories VAL artwork 	0
+COL name VAL Northgate Pointe Building COL categories VAL commercial 	1
+COL name VAL My Favorite Deli! COL categories VAL deli 	0
+COL name VAL KeyBank COL categories VAL bank 	0
+COL name VAL Alvord Broadleaf Theater COL categories VAL theatre 	0
+COL name VAL Center of the Universe sign COL categories VAL artwork 	0
+COL name VAL Whole Foods Market COL categories VAL supermarket 	0
+COL name VAL Financial Center COL categories VAL commercial 	1
+COL name VAL Trace North Condos COL categories VAL building 	1
+COL name VAL Kiss Cafe COL categories VAL restaurant 	0
+COL name VAL Wings over Washington COL categories VAL attraction 	0
+COL name VAL Wells Fargo COL categories VAL atm 	0
+COL name VAL Ballard Home Comforts COL categories VAL gift 	0
+COL name VAL Baraka Gemstones and Jewelry COL categories VAL jewelry 	0
+COL name VAL Benaroya Hall COL categories VAL theatre 	1
+COL name VAL East Trading Co. COL categories VAL bar 	0
+COL name VAL Dial-a-Ride #38 COL categories VAL bus_stop 	0
+COL name VAL Cicchetti COL categories VAL restaurant 	0
+COL name VAL Untitled COL categories VAL artwork 	0
+COL name VAL Giraffe & Lion Riding Alligator Bike COL categories VAL artwork 	0
+COL name VAL Montlake Blvd NE & NE 45th St COL categories VAL bus_stop 	0
+COL name VAL Pleasant Beach Donuts COL categories VAL fast_food 	0
+COL name VAL Amli Mark 24 Retail Parking Lot COL categories VAL parking 	0
+COL name VAL Gretchen’s Place COL categories VAL cafe 	0
+COL name VAL Pike & Western Wine Shop COL categories VAL deli 	0
+COL name VAL Rudy's Barbershop COL categories VAL hairdresser 	0
+COL name VAL Washington State Convention Center COL categories VAL attraction 	1
+COL name VAL Byrek + Baguette COL categories VAL cafe 	0
+COL name VAL Fairmont Olympic Hotel COL categories VAL hotel 	1
+COL name VAL Century Ballroom COL categories VAL leisure 	0
+COL name VAL N 39th St & Dayton Ave N COL categories VAL bus_stop 	0
+COL name VAL Northwest Childrens Academy COL categories VAL school 	0
+COL name VAL Admiral Benbow COL categories VAL bar 	0
+COL name VAL Blue Star Memorial Highway COL categories VAL historic 	0
+COL name VAL Bank of America COL categories VAL atm 	0
+COL name VAL Columbia Bank COL categories VAL bank 	0
+COL name VAL eMode COL categories VAL office 	0
+COL name VAL Ho Ho Seafood COL categories VAL restaurant 	0
+COL name VAL Swan Healthy Gourmet COL categories VAL beverages 	0
+COL name VAL Pacific Galleries Auction House and Antique Mall COL categories VAL antiques 	0
+COL name VAL Studio 4 Brow COL categories VAL beauty 	0
+COL name VAL Heartland Cafe COL categories VAL cafe 	0
+COL name VAL Starbucks COL categories VAL cafe 	0
+COL name VAL Wallingford Eye Center COL categories VAL doctors 	0
+COL name VAL Fisk Electric & Technologies COL categories VAL office 	0
+COL name VAL Stereotype COL categories VAL artwork 	0
+COL name VAL Dino's Tomato Pie COL categories VAL restaurant 	0
+COL name VAL Saint Gebriel Ethiopian Church COL categories VAL place_of_worship 	0
+COL name VAL Twilight Exit COL categories VAL bar 	0
+COL name VAL 19th Ave E & E Prospect St COL categories VAL bus_stop 	0
+COL name VAL 24th Ave E & Boyer Ave E COL categories VAL bus_stop 	0
+COL name VAL 5th Ave & Cherry St COL categories VAL bus_stop 	0
+COL name VAL Deli Shez Cafe COL categories VAL cafe 	0
+COL name VAL Banner Bank COL categories VAL atm 	0
+COL name VAL Starbucks COL categories VAL Coffee & Tea 	0
+COL name VAL 35th Ave SW & SW Holly St COL categories VAL bus_stop 	0
+COL name VAL 44th Ave SW & Marine View Dr SW COL categories VAL bus_stop 	0
+COL name VAL Fremont Space COL categories VAL commercial 	1
+COL name VAL The 515 COL categories VAL American (Traditional); Breakfast & Brunch 	0
+COL name VAL Leone Vaughn Davis Orthodonics COL categories VAL dentist 	0
+COL name VAL Starbucks COL categories VAL cafe 	0
+COL name VAL SW Morgan St & 35th Ave SW COL categories VAL bus_stop 	0
+COL name VAL Slab COL categories VAL restaurant 	0
+COL name VAL Bruce and Brandon Lee Graves COL categories VAL historic 	0
+COL name VAL Lake Union Family Dental COL categories VAL office 	0
+COL name VAL Hong Kong Apartments COL categories VAL  	0
+COL name VAL Untitled COL categories VAL artwork 	0
+COL name VAL Kitchen Basics COL categories VAL kitchen 	0
+COL name VAL Pharmaca COL categories VAL pharmacy 	0
+COL name VAL Magnolia Insurance COL categories VAL office 	0
+COL name VAL Seattle City Fire Station Number 35 COL categories VAL fire_station 	0
+COL name VAL Michou COL categories VAL Delis; Sandwiches 	0
+COL name VAL West Seattle Bowl COL categories VAL leisure 	1
+COL name VAL Cappy's Boxing Gym COL categories VAL leisure 	0
+COL name VAL Zebra Print and Copy COL categories VAL copyshop 	0
+COL name VAL Terminal Sales Building COL categories VAL building 	1
+COL name VAL The Northcoast Building - Court in the Square COL categories VAL building 	1
+COL name VAL Storyville Coffee COL categories VAL cafe 	0
+COL name VAL Untitled COL categories VAL artwork 	0
+COL name VAL Auto Plus COL categories VAL car_parts 	0
+COL name VAL Cafe Hitchcock Express COL categories VAL Cafes; Coffee & Tea 	0
+COL name VAL BluWater Bistro COL categories VAL restaurant 	0
+COL name VAL Cheese Meats Bread COL categories VAL fast_food 	0
+COL name VAL Kasala COL categories VAL furniture 	0
+COL name VAL Kau Kau Barbecue COL categories VAL restaurant 	0
+COL name VAL Briterworks Inc. COL categories VAL manufacturer 	0
+COL name VAL Little Free Library COL categories VAL public_bookcase 	0
+COL name VAL Girls Rock Math COL categories VAL school 	0
+COL name VAL Chihuly Garden and Glass COL categories VAL museum 	1
+COL name VAL The Palladian Hotel COL categories VAL hotel 	1
+COL name VAL Beacon Ave S & S Orcas St COL categories VAL bus_stop 	0
+COL name VAL MarQueen Hotel COL categories VAL hotel 	1
+COL name VAL Cutty Sark Nautical Antiques COL categories VAL antiques 	0
+COL name VAL Communion COL categories VAL restaurant 	0
+COL name VAL Wild Gravity COL categories VAL office 	0
+COL name VAL Taco Del Mar COL categories VAL fast_food 	0
+COL name VAL Ace Hotel COL categories VAL building 	1
+COL name VAL Verde & Co. COL categories VAL florist 	0
+COL name VAL Soup Daddy Soups COL categories VAL restaurant 	0
+COL name VAL Marine Service & Supply COL categories VAL hardware 	0
+COL name VAL Under the Needle COL categories VAL tattoo 	0
+COL name VAL Palisade COL categories VAL restaurant 	0
+COL name VAL Margaret O'Leary COL categories VAL clothes 	0
+COL name VAL Wildlife Theater COL categories VAL theatre 	0
+COL name VAL HomeStreet Bank COL categories VAL bank 	0
+COL name VAL Mel's Market COL categories VAL fast_food 	0
+COL name VAL Spotted Owl Berger Variety Shop COL categories VAL tobacco 	0
+COL name VAL Little Free Peep Show COL categories VAL give_box 	0
+COL name VAL Lake City Watch Clock & Jewelry Repair COL categories VAL watch_repair 	0
+COL name VAL Salon Q.E. COL categories VAL hairdresser 	0
+COL name VAL 76 COL categories VAL fuel 	0
+COL name VAL 3107 Dentistry COL categories VAL dentist 	0
+COL name VAL T-Mobile COL categories VAL mobile_phone 	0
+COL name VAL IBM Building COL categories VAL building 	1
+COL name VAL Charles Cowen Park Gate COL categories VAL historic 	0
+COL name VAL El Camión Laurelhurst Truck COL categories VAL restaurant 	0
+COL name VAL University Bridge & NE 40th St COL categories VAL bus_stop 	0
+COL name VAL 5th Ave NE & NE 112th St COL categories VAL bus_stop 	0
+COL name VAL John Fluevog Shoes COL categories VAL shoes 	0
+COL name VAL East Green Lake Dr N & Latona Ave NE COL categories VAL bus_stop 	0
+COL name VAL Husky Grind COL categories VAL cafe 	0
+COL name VAL The Style Witch Hair Studio COL categories VAL hairdresser 	0
+COL name VAL Seneca St & Boren Ave COL categories VAL bus_stop 	0
+COL name VAL East Montlake Pl E & E Roanoke St COL categories VAL bus_stop 	0
+COL name VAL Walentas Upholstery COL categories VAL upholstery 	0
+COL name VAL Great Northwest Soup Co COL categories VAL restaurant 	0
+COL name VAL Queen Anne Nail Spa COL categories VAL beauty 	0
+COL name VAL Devine Chiropractic & Rehab Center COL categories VAL healthcare 	0
+COL name VAL I-5 & NE 45th St COL categories VAL bus_stop 	0
+COL name VAL Enviro-Tech Diving COL categories VAL office 	0
+COL name VAL Pizzeria La Rocca COL categories VAL restaurant 	0
+COL name VAL Tavona COL categories VAL building 	1
+COL name VAL Reflex Massage COL categories VAL massage 	0
+COL name VAL Collins Building COL categories VAL commercial 	1
+COL name VAL Seatown Vet COL categories VAL veterinary 	0
+COL name VAL iDope COL categories VAL electronics 	0
+COL name VAL Madison Cuts COL categories VAL hairdresser 	0
+COL name VAL Page Ahead Children's Literacy Program COL categories VAL office 	0
+COL name VAL Mac Pherson Leather COL categories VAL leather 	0
+COL name VAL TD Ameritrade COL categories VAL office 	0
+COL name VAL FedEx Office COL categories VAL copyshop 	0
+COL name VAL Salon Joseph COL categories VAL hairdresser 	0
+COL name VAL Emerald Isle Title COL categories VAL tiles 	0
+COL name VAL State Farm COL categories VAL office 	0
+COL name VAL Chase COL categories VAL bank 	0
+COL name VAL Auto Service COL categories VAL car_repair 	0
+COL name VAL Vain COL categories VAL hairdresser 	0
+COL name VAL E John St & 15th Ave E COL categories VAL bus_stop 	0
+COL name VAL Union Bay Natural Area COL categories VAL information 	0
+COL name VAL Cat City Boarding COL categories VAL animal_boarding 	0
+COL name VAL Sunnyside Avenue North Boat Ramp COL categories VAL leisure 	0
+COL name VAL R & M COL categories VAL convenience 	0
+COL name VAL The Bikery COL categories VAL bicycle 	0
+COL name VAL Big Mario's Pizza COL categories VAL restaurant 	0
+COL name VAL Madison St & Summit Ave COL categories VAL bus_stop 	0
+COL name VAL Lancer & Lace COL categories VAL hairdresser 	0
+COL name VAL Union Trust Building COL categories VAL building 	1
+COL name VAL Amazon.com Doppler COL categories VAL office 	1
+COL name VAL Mabel COL categories VAL cafe 	0
+COL name VAL BECU COL categories VAL atm 	0
+COL name VAL Shy Giant Frozen Yogurt COL categories VAL ice_cream 	0
+COL name VAL ZoomCare COL categories VAL clinic 	0
+COL name VAL Showbox SODO COL categories VAL nightclub 	0
+COL name VAL 49th Ave SW & SW Hudson St COL categories VAL bus_stop 	0
+COL name VAL Starbucks COL categories VAL cafe 	0
+COL name VAL Cortina Café COL categories VAL cafe 	0
+COL name VAL Mark Iffrig COL categories VAL office 	0
+COL name VAL 10th Ave E & E Howe St COL categories VAL bus_stop 	0
+COL name VAL Harvard Ave E & Eastlake Ave E COL categories VAL bus_stop 	0
+COL name VAL Healing Yoga Center COL categories VAL leisure 	0
+COL name VAL Montlake Blvd NE & NE 45th St COL categories VAL bus_stop 	0
+COL name VAL Bellevue Ave E & Bellevue Pl E COL categories VAL bus_stop 	0
+COL name VAL Happy Times Bistro COL categories VAL restaurant 	0
+COL name VAL Blue Sky Cleaners COL categories VAL dry_cleaning 	0
+COL name VAL Team Survivor COL categories VAL office 	0
+COL name VAL Chipotle COL categories VAL fast_food 	0
+COL name VAL Tower Deli COL categories VAL fast_food 	0

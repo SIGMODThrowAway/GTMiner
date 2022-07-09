@@ -1,0 +1,520 @@
+COL name VAL Turf Bar COL categories VAL pub 	0
+COL name VAL Ringwood Square Barber Shop COL categories VAL hairdresser 	0
+COL name VAL Commonwealth Bank COL categories VAL bank 	0
+COL name VAL Step Ahead Shoes COL categories VAL shoes 	0
+COL name VAL Miah's Sambalicious COL categories VAL restaurant 	0
+COL name VAL Insignia on Flinders COL categories VAL pub 	0
+COL name VAL East Ringwood Reserve Playground COL categories VAL leisure 	0
+COL name VAL Qiao Xiang Yuan COL categories VAL restaurant 	0
+COL name VAL Priceline Pharmacy COL categories VAL pharmacy 	0
+COL name VAL LaunchPad Orbit COL categories VAL office 	0
+COL name VAL National Tiles COL categories VAL craft 	0
+COL name VAL James Cook University COL categories VAL university 	0
+COL name VAL Keilor Downs Surgery COL categories VAL hospital 	0
+COL name VAL Liquorland COL categories VAL alcohol 	0
+COL name VAL Public Toilets COL categories VAL toilets 	0
+COL name VAL Pilates COL categories VAL leisure 	0
+COL name VAL Melview Drive Playground COL categories VAL leisure 	0
+COL name VAL Caltex Ascot Vale COL categories VAL fuel 	0
+COL name VAL Greater Knox Family Practice COL categories VAL doctors 	1
+COL name VAL Vic Street Gallery COL categories VAL gallery 	0
+COL name VAL Hamer COL categories VAL artwork 	0
+COL name VAL Dumplings 2 Go COL categories VAL restaurant 	0
+COL name VAL Wandin Veterinary Clinic COL categories VAL veterinary 	0
+COL name VAL Aussie Curry Lovers COL categories VAL restaurant 	0
+COL name VAL Pegasus Apart'Hotel COL categories VAL hotel 	1
+COL name VAL Lagom Gelateria COL categories VAL ice_cream 	0
+COL name VAL Shiraaz COL categories VAL restaurant 	0
+COL name VAL Muffin Break COL categories VAL cafe 	0
+COL name VAL Spirit Of India COL categories VAL restaurant 	0
+COL name VAL 181 Bar Restaurant COL categories VAL restaurant 	0
+COL name VAL Royal Children's Hospital COL categories VAL hospital 	1
+COL name VAL Barbershop COL categories VAL hairdresser 	0
+COL name VAL Australia Post Parcel Lockers COL categories VAL vending_machine 	0
+COL name VAL Piedimonte's IGA COL categories VAL supermarket 	0
+COL name VAL Healesville Sanctuary COL categories VAL zoo 	1
+COL name VAL Mitchell McCabe Mensware COL categories VAL clothes 	0
+COL name VAL St Thomas Anglican Church COL categories VAL place_of_worship 	0
+COL name VAL Malaysian Consulate General in Melbourne COL categories VAL office 	0
+COL name VAL Sunshine Station (Bay 9) COL categories VAL bus_stop 	0
+COL name VAL Waterdale Fish & Chips COL categories VAL fast_food 	0
+COL name VAL Ilana Car Seat Covers COL categories VAL car_parts 	0
+COL name VAL Half Moon Cafe COL categories VAL cafe 	0
+COL name VAL Cardboard COL categories VAL waste_basket 	0
+COL name VAL Law Bookshop COL categories VAL books 	0
+COL name VAL Save the Children Op Shop COL categories VAL charity 	0
+COL name VAL District 5 Bistro COL categories VAL restaurant 	0
+COL name VAL Monash Vale Early Learning Centre COL categories VAL kindergarten 	0
+COL name VAL Commonwealth Bank COL categories VAL atm 	0
+COL name VAL Spacelane Mechanical Repairs COL categories VAL car_repair 	0
+COL name VAL Refuel Café COL categories VAL cafe 	0
+COL name VAL Beach Street Family Medicine COL categories VAL doctors 	1
+COL name VAL Greensborough Road COL categories VAL bus_stop 	0
+COL name VAL The Clayton Hotel COL categories VAL hotel 	1
+COL name VAL Organic Wholefoods COL categories VAL supermarket 	0
+COL name VAL Emerald Hill Library COL categories VAL library 	0
+COL name VAL BP COL categories VAL fuel 	0
+COL name VAL Fogarty Ave COL categories VAL bus_stop 	0
+COL name VAL Fresh seafood wholesalers COL categories VAL seafood 	0
+COL name VAL Australia Post COL categories VAL post_office 	0
+COL name VAL The Lame Duck COL categories VAL bar 	0
+COL name VAL Grill'd COL categories VAL fast_food 	0
+COL name VAL Cornish Library COL categories VAL library 	0
+COL name VAL Knead Bakers COL categories VAL cafe 	0
+COL name VAL Pie Face COL categories VAL cafe 	0
+COL name VAL Clearwater Car Wash COL categories VAL car_wash 	0
+COL name VAL Lecco Pizzeria COL categories VAL restaurant 	0
+COL name VAL Brunswick Mess Hall COL categories VAL restaurant 	0
+COL name VAL Ultratune COL categories VAL car_repair 	0
+COL name VAL Cafe Flo COL categories VAL cafe 	0
+COL name VAL 7-Eleven COL categories VAL fuel 	0
+COL name VAL Kodiak Club COL categories VAL bar 	0
+COL name VAL Street Organics COL categories VAL cafe 	0
+COL name VAL Nova Pharmacy COL categories VAL pharmacy 	0
+COL name VAL Batman’s Hill on Collins COL categories VAL hotel 	1
+COL name VAL Best Friends COL categories VAL pet 	0
+COL name VAL Churches of Christ Theological College COL categories VAL university 	1
+COL name VAL Roadhaven Cafe COL categories VAL cafe 	0
+COL name VAL Solway Large Guys COL categories VAL clothes 	0
+COL name VAL McKillops COL categories VAL restaurant 	0
+COL name VAL Carpark pedestrian entrance COL categories VAL parking_entrance 	0
+COL name VAL WoodsYard COL categories VAL wine 	0
+COL name VAL JB Hi-Fi COL categories VAL electronics 	0
+COL name VAL Champ Street COL categories VAL bus_stop 	0
+COL name VAL The BIndery COL categories VAL craft 	0
+COL name VAL Officeworks COL categories VAL stationery 	0
+COL name VAL Queen St Flower Co COL categories VAL florist 	0
+COL name VAL Limnos Butcher COL categories VAL butcher 	0
+COL name VAL Abbotsford Convent COL categories VAL attraction 	1
+COL name VAL RC Garage COL categories VAL hobby 	0
+COL name VAL EB Games COL categories VAL video_games 	0
+COL name VAL 7-Eleven COL categories VAL fuel 	0
+COL name VAL Seed Heritage COL categories VAL clothes 	0
+COL name VAL LaunchPad Evolve COL categories VAL office 	0
+COL name VAL Supple COL categories VAL office 	0
+COL name VAL The Protein Factory COL categories VAL nutrition_supplements 	0
+COL name VAL Premier Health Partners COL categories VAL doctors 	0
+COL name VAL Pause Cafe COL categories VAL cafe 	0
+COL name VAL Middle Park Community Centre COL categories VAL community_centre 	1
+COL name VAL Pronto Pizza COL categories VAL fast_food 	0
+COL name VAL Ohana Hairdressing COL categories VAL hairdresser 	0
+COL name VAL Baxter Institute (Automotive and Bakery Campus) COL categories VAL college 	1
+COL name VAL e.g.etal Jewellery COL categories VAL jewelry 	0
+COL name VAL Eltham Ridge Pharmacy COL categories VAL chemist 	0
+COL name VAL Highpoint Shopping Centre COL categories VAL mall 	1
+COL name VAL Kealba Community Center COL categories VAL community_centre 	1
+COL name VAL U3A Ringwood COL categories VAL office 	0
+COL name VAL Kavanagh Street/Southbank Boulevard COL categories VAL bus_stop 	0
+COL name VAL Arbory Afloat COL categories VAL bar 	0
+COL name VAL Cellarbrations COL categories VAL alcohol 	0
+COL name VAL Ground Cafe COL categories VAL cafe 	0
+COL name VAL Edward Meller COL categories VAL clothes 	0
+COL name VAL Code Black COL categories VAL cafe 	0
+COL name VAL Seed Heritage COL categories VAL clothes 	0
+COL name VAL Eyetech Optometrists COL categories VAL optician 	0
+COL name VAL Belgian Beer Cafe COL categories VAL pub 	0
+COL name VAL Back In Motion COL categories VAL healthcare 	0
+COL name VAL Birrarung Wilam (Common Ground) COL categories VAL artwork 	0
+COL name VAL Melbourne University Eyecare COL categories VAL optician 	0
+COL name VAL Zone Bowling COL categories VAL sport 	0
+COL name VAL Dollar Curtains & Blinds COL categories VAL curtain 	0
+COL name VAL Clark Rubber - Chirnside Park COL categories VAL swimming_pool 	0
+COL name VAL McDonald's COL categories VAL fast_food 	0
+COL name VAL Mobile Up COL categories VAL mobile_phone 	0
+COL name VAL Java Cafe COL categories VAL cafe 	0
+COL name VAL Flemington Library COL categories VAL library 	0
+COL name VAL Clarinda Library COL categories VAL library 	0
+COL name VAL McDonald's COL categories VAL fast_food 	0
+COL name VAL Croydon North Discount Pharmacy COL categories VAL pharmacy 	0
+COL name VAL Monty's Noodles COL categories VAL fast_food 	0
+COL name VAL Sandringham Baptist Church COL categories VAL place_of_worship 	0
+COL name VAL South Melbourne Life Saving Club COL categories VAL fast_food 	0
+COL name VAL Public Toilets COL categories VAL toilets 	0
+COL name VAL Westcare Medical Centre COL categories VAL clinic 	1
+COL name VAL Nyala African Restaurant COL categories VAL restaurant 	0
+COL name VAL New Quay Buffet COL categories VAL restaurant 	0
+COL name VAL Kritamos COL categories VAL restaurant 	0
+COL name VAL City of Hope COL categories VAL place_of_worship 	0
+COL name VAL The Falafel Man COL categories VAL fast_food 	0
+COL name VAL TreasureStar COL categories VAL bar 	0
+COL name VAL Royal Australasian College of Surgeons/Victoria Parade COL categories VAL bus_stop 	0
+COL name VAL Free Choice COL categories VAL tobacco 	0
+COL name VAL Thomas Gannan COL categories VAL furniture 	0
+COL name VAL State Library of Victoria COL categories VAL library 	1
+COL name VAL Rubiki COL categories VAL cafe 	0
+COL name VAL Envirowash COL categories VAL car_wash 	0
+COL name VAL Boyd Community Hub COL categories VAL public_building 	1
+COL name VAL Mantra St Kilda Road COL categories VAL hotel 	1
+COL name VAL Forty Winks COL categories VAL bed 	0
+COL name VAL Intralot COL categories VAL office 	0
+COL name VAL Vaucluse Hotel COL categories VAL pub 	0
+COL name VAL Hunters' Roots COL categories VAL cafe 	0
+COL name VAL Access Medical Centre COL categories VAL clinic 	0
+COL name VAL Yes Optus COL categories VAL telecommunication 	0
+COL name VAL Parkiteer COL categories VAL bicycle_parking 	0
+COL name VAL Honorary Consul of the Federal Republic of Germany COL categories VAL office 	0
+COL name VAL Bank of Melbourne COL categories VAL bank 	0
+COL name VAL Courthouse Theatre COL categories VAL theatre 	0
+COL name VAL Station Street Cafe COL categories VAL cafe 	0
+COL name VAL Himes Group COL categories VAL office 	0
+COL name VAL Zaytoune COL categories VAL cafe 	0
+COL name VAL Shine Car Wash COL categories VAL car_wash 	0
+COL name VAL Creative Cubes Co. COL categories VAL office 	1
+COL name VAL Hargrave-Andrew Library COL categories VAL library 	1
+COL name VAL 181 Domain COL categories VAL cafe 	0
+COL name VAL Spieledeluxe COL categories VAL games 	0
+COL name VAL Petbarn COL categories VAL Pet Stores 	0
+COL name VAL Daffney’s COL categories VAL pharmacy 	0
+COL name VAL Tsindos Greek Restaurant COL categories VAL restaurant 	0
+COL name VAL Jacks Barbers COL categories VAL hairdresser 	0
+COL name VAL Tatts COL categories VAL lottery 	0
+COL name VAL Yarra Bottlemart COL categories VAL alcohol 	0
+COL name VAL Dunning Kruger COL categories VAL bar 	0
+COL name VAL Sosumi Japanese Restaurant COL categories VAL restaurant 	0
+COL name VAL Brosa COL categories VAL craft 	0
+COL name VAL Neuw Denim COL categories VAL clothes 	0
+COL name VAL Laksa King COL categories VAL restaurant 	0
+COL name VAL Perth Avenue Milk Bar COL categories VAL convenience 	0
+COL name VAL ITFutures COL categories VAL office 	0
+COL name VAL The Hive COL categories VAL mall 	1
+COL name VAL Essé COL categories VAL clothes 	0
+COL name VAL Journey Early Learning Centre COL categories VAL childcare 	0
+COL name VAL Woolworths Metro COL categories VAL supermarket 	0
+COL name VAL Stand Up Cafe COL categories VAL cafe 	0
+COL name VAL Master Drycleaners COL categories VAL dry_cleaning 	0
+COL name VAL BWS COL categories VAL alcohol 	0
+COL name VAL "The Sandy" Hotel COL categories VAL pub 	0
+COL name VAL Lygon Street Christian Chapel COL categories VAL place_of_worship 	0
+COL name VAL Gifts With Love Express COL categories VAL variety_store 	0
+COL name VAL Babalu's Pizza & Pasta COL categories VAL fast_food 	0
+COL name VAL Chapman & Bailey COL categories VAL craft 	0
+COL name VAL Mycelium Studios COL categories VAL arts_centre 	0
+COL name VAL Pizza Hut COL categories VAL restaurant 	0
+COL name VAL Clash City Hair COL categories VAL hairdresser 	0
+COL name VAL Lucky 7 Eight on Miles COL categories VAL convenience 	0
+COL name VAL On the Mend COL categories VAL clothes 	0
+COL name VAL Knox City Shopping Centre (Bay 1) COL categories VAL bus_stop 	0
+COL name VAL Flinders Street Station Pharmacy COL categories VAL pharmacy 	0
+COL name VAL Grace Baptist Community Church COL categories VAL place_of_worship 	0
+COL name VAL Liquorland Express COL categories VAL alcohol 	0
+COL name VAL Ecovantage COL categories VAL office 	0
+COL name VAL Queensberry Street/Lygon Street COL categories VAL bus_stop 	0
+COL name VAL South Melbourne Market COL categories VAL marketplace 	1
+COL name VAL Epworth Richmond Hospital COL categories VAL hospital 	1
+COL name VAL Waverley Gardens Dental Clinic COL categories VAL dentist 	0
+COL name VAL Denim Smith COL categories VAL clothes 	0
+COL name VAL Bentley the Butler COL categories VAL dry_cleaning 	0
+COL name VAL Underground carpark toilets COL categories VAL toilets 	0
+COL name VAL Woolworths COL categories VAL supermarket 	0
+COL name VAL Family fishing lake COL categories VAL leisure 	0
+COL name VAL Apple Store COL categories VAL electronics 	0
+COL name VAL Hoa Nghiem Primary School COL categories VAL school 	0
+COL name VAL Christ Church Kensington COL categories VAL place_of_worship 	0
+COL name VAL Yummy Pho COL categories VAL restaurant 	0
+COL name VAL Commonwealth Bank COL categories VAL bank 	0
+COL name VAL Wild Life Bakery COL categories VAL cafe 	0
+COL name VAL Berth 3 COL categories VAL ferry_terminal 	0
+COL name VAL Kensington Lawyers COL categories VAL office 	0
+COL name VAL Hughes St/Francis St COL categories VAL bus_stop 	0
+COL name VAL Cromwell Street/Victoria Parade COL categories VAL bus_stop 	0
+COL name VAL Poolman Street COL categories VAL bus_stop 	0
+COL name VAL Creelman's Pharmacy COL categories VAL pharmacy 	0
+COL name VAL Grayling Cres/Kalinda Rd COL categories VAL bus_stop 	0
+COL name VAL Brunswick Secondary College/Dawson Street COL categories VAL bus_stop 	0
+COL name VAL Sidewalk Soul COL categories VAL shoes 	0
+COL name VAL Fitzroy Toy Library COL categories VAL toys 	0
+COL name VAL Plaza Medical Centre COL categories VAL clinic 	0
+COL name VAL recycle boutique COL categories VAL clothes 	0
+COL name VAL Early Settler COL categories VAL furniture 	0
+COL name VAL St Mary's Coptic Orthodox Church COL categories VAL place_of_worship 	0
+COL name VAL Melbourne Pathology COL categories VAL clinic 	0
+COL name VAL Stop 140: Fraser Street COL categories VAL bus_stop 	0
+COL name VAL Da Guido La Pasta COL categories VAL restaurant 	0
+COL name VAL Australian College of Hair Design And Beauty COL categories VAL college 	0
+COL name VAL Local Cellars COL categories VAL alcohol 	0
+COL name VAL ACS COL categories VAL office 	0
+COL name VAL Ante Pavelić COL categories VAL artwork 	0
+COL name VAL Northland Shopping Centre COL categories VAL mall 	1
+COL name VAL Splendid Kitchen COL categories VAL kitchen 	0
+COL name VAL Cellarbrations COL categories VAL alcohol 	0
+COL name VAL Vapiano COL categories VAL restaurant 	0
+COL name VAL St Scholastica's Catholic Church COL categories VAL place_of_worship 	0
+COL name VAL St Kilda West Licensed Post Office COL categories VAL post_office 	0
+COL name VAL Once Upon A Slime COL categories VAL artwork 	0
+COL name VAL Tresselle Hairdressing COL categories VAL hairdresser 	0
+COL name VAL Public Toilets COL categories VAL toilets 	0
+COL name VAL Bridge St/Bay St 234 - Garden City COL categories VAL bus_stop 	0
+COL name VAL Chaf's Cafe COL categories VAL cafe 	0
+COL name VAL 7-Eleven COL categories VAL convenience 	0
+COL name VAL Holy Trinity Church/High Street COL categories VAL bus_stop 	0
+COL name VAL Biggin Scott COL categories VAL office 	0
+COL name VAL Swop Clothing Exchange COL categories VAL clothes 	0
+COL name VAL NAB COL categories VAL bank 	0
+COL name VAL Đồi Xanh Quán COL categories VAL restaurant 	0
+COL name VAL Taxi COL categories VAL taxi 	0
+COL name VAL Bull Run COL categories VAL restaurant 	0
+COL name VAL Coles COL categories VAL supermarket 	0
+COL name VAL Revival Centre Church COL categories VAL place_of_worship 	0
+COL name VAL SaltWater Community Centre COL categories VAL community_centre 	1
+COL name VAL Sun Theatre COL categories VAL cinema 	1
+COL name VAL Arbory Bar & Eatery COL categories VAL bar 	0
+COL name VAL Rustic Thai Kitchen COL categories VAL restaurant 	0
+COL name VAL Kebabs On Bell COL categories VAL fast_food 	0
+COL name VAL Cafe Notturino COL categories VAL restaurant 	0
+COL name VAL X Stone COL categories VAL craft 	0
+COL name VAL Khazana COL categories VAL restaurant 	0
+COL name VAL North Ringwood Pre School COL categories VAL bus_stop 	0
+COL name VAL Seasons Botanic Gardens Melbourne COL categories VAL hotel 	1
+COL name VAL Montmorency Newsagency COL categories VAL newsagent 	0
+COL name VAL Minuteman Press COL categories VAL copyshop 	0
+COL name VAL Mehretina Cafe COL categories VAL cafe 	0
+COL name VAL Dumpling 88 COL categories VAL restaurant 	0
+COL name VAL Bravissimi COL categories VAL kindergarten 	0
+COL name VAL Spoke n Sprocket COL categories VAL bicycle 	0
+COL name VAL Waltzing Matilda Hotel COL categories VAL restaurant 	0
+COL name VAL Port Jackson Press Print Room COL categories VAL art 	0
+COL name VAL Zacs Pet Supplies COL categories VAL pet 	0
+COL name VAL Bar Commercio COL categories VAL cafe 	0
+COL name VAL Vaphilia COL categories VAL tobacco 	0
+COL name VAL Centre for Nanofabrication/Wellington Rd COL categories VAL bus_stop 	0
+COL name VAL Subscape Aquarium COL categories VAL pet 	0
+COL name VAL Westland Furniture COL categories VAL furniture 	0
+COL name VAL Australian Meat Company COL categories VAL butcher 	0
+COL name VAL Bob Jane T-Marts COL categories VAL tyres 	0
+COL name VAL Waterdale Bake House COL categories VAL bakery 	0
+COL name VAL TAP831 COL categories VAL restaurant 	0
+COL name VAL Kinfolk COL categories VAL cafe 	0
+COL name VAL Ofuroya, the Japanese Bath House COL categories VAL public_bath 	0
+COL name VAL Corner Convenience Store COL categories VAL convenience 	0
+COL name VAL Ian Potter Centre: NGV Australia COL categories VAL museum 	1
+COL name VAL Frank A Boday COL categories VAL office 	0
+COL name VAL Eastland COL categories VAL mall 	1
+COL name VAL Chirnside Park Shopping Centre COL categories VAL mall 	1
+COL name VAL Medical History Museum COL categories VAL museum 	0
+COL name VAL Consulate General of Italy in Melbourne COL categories VAL office 	0
+COL name VAL Sunshine Station (Bay 12) COL categories VAL bus_stop 	0
+COL name VAL IKEA EV chargers COL categories VAL charging_station 	0
+COL name VAL Mai's Florist COL categories VAL florist 	0
+COL name VAL Foodworks COL categories VAL supermarket 	0
+COL name VAL Catch 22 Men's Wear COL categories VAL clothes 	0
+COL name VAL Golden Prawn COL categories VAL restaurant 	0
+COL name VAL George's Milk Bar COL categories VAL convenience 	0
+COL name VAL BWS COL categories VAL alcohol 	0
+COL name VAL Toilet 46 COL categories VAL toilets 	0
+COL name VAL HD Academic Tuition COL categories VAL office 	0
+COL name VAL Magic Cuisine COL categories VAL fast_food 	0
+COL name VAL Auski COL categories VAL sports 	0
+COL name VAL The Pint of Milk COL categories VAL cafe 	0
+COL name VAL BWS COL categories VAL alcohol 	0
+COL name VAL MMS COL categories VAL restaurant 	0
+COL name VAL Double Dutch Coffee Bar COL categories VAL cafe 	0
+COL name VAL Knox City Shopping Centre (Bay 2) COL categories VAL bus_stop 	0
+COL name VAL Coco Charlie COL categories VAL clothes 	0
+COL name VAL Clarinda Community Centre COL categories VAL community_centre 	1
+COL name VAL Pines Learning & Activity Centre COL categories VAL community_centre 	1
+COL name VAL Willocks Lawyers COL categories VAL office 	0
+COL name VAL Zambrero COL categories VAL fast_food 	0
+COL name VAL Crystal Heart COL categories VAL gift 	0
+COL name VAL ST. Ali COL categories VAL cafe 	0
+COL name VAL Commonwealth Bank COL categories VAL atm 	0
+COL name VAL Wicked Campers Melbourne COL categories VAL caravan 	0
+COL name VAL KFC COL categories VAL fast_food 	0
+COL name VAL Focus On Furniture COL categories VAL furniture 	0
+COL name VAL idea box COL categories VAL office 	0
+COL name VAL Pictures and Pages COL categories VAL books 	0
+COL name VAL St Kilda Road Post Shop COL categories VAL post_office 	0
+COL name VAL Westpac COL categories VAL atm 	0
+COL name VAL Seedling COL categories VAL cafe 	0
+COL name VAL Ducati City COL categories VAL motorcycle 	0
+COL name VAL Blue Stool COL categories VAL cafe 	0
+COL name VAL The Old Raffles Place COL categories VAL restaurant 	0
+COL name VAL Jeanswest COL categories VAL clothes 	0
+COL name VAL Epic Centre COL categories VAL office 	1
+COL name VAL ANZ COL categories VAL bank 	0
+COL name VAL Public Toilets COL categories VAL toilets 	0
+COL name VAL Fu Lu COL categories VAL restaurant 	0
+COL name VAL Whitehorse Gardens COL categories VAL bus_stop 	0
+COL name VAL Eyes On COL categories VAL optician 	0
+COL name VAL mycar Tyre & Auto COL categories VAL car_repair 	0
+COL name VAL Sandringham Yacht Club Marina COL categories VAL leisure 	1
+COL name VAL Crown Entertainment Complex COL categories VAL casino 	1
+COL name VAL Australia Post - Batman LPO COL categories VAL post_office 	0
+COL name VAL Owen Dixon Chambers West COL categories VAL office 	1
+COL name VAL Sweet Pea Florist COL categories VAL florist 	0
+COL name VAL North Melbourne Shoe Repairs COL categories VAL craft 	0
+COL name VAL SGR Audio COL categories VAL office 	0
+COL name VAL Ren Dao COL categories VAL restaurant 	0
+COL name VAL Jenny's Hot Bread COL categories VAL fast_food 	0
+COL name VAL Passionate COL categories VAL restaurant 	0
+COL name VAL Foodworks COL categories VAL supermarket 	0
+COL name VAL O-Bento COL categories VAL restaurant 	0
+COL name VAL Qmara COL categories VAL supermarket 	0
+COL name VAL Oakleigh Station COL categories VAL bus_stop 	0
+COL name VAL Secret Kitchen COL categories VAL restaurant 	0
+COL name VAL Subway COL categories VAL fast_food 	0
+COL name VAL Dan Murphy's COL categories VAL alcohol 	0
+COL name VAL McNamara Avenue/Fullarton Road COL categories VAL bus_stop 	0
+COL name VAL Bank of Melbourne COL categories VAL atm 	0
+COL name VAL Preston Clothing COL categories VAL tailor 	0
+COL name VAL Capelli COL categories VAL hairdresser 	0
+COL name VAL Westfield Knox Shopping Centre COL categories VAL mall 	1
+COL name VAL Cavallini COL categories VAL cafe 	0
+COL name VAL Jay Jays COL categories VAL clothes 	0
+COL name VAL Fenix COL categories VAL restaurant 	0
+COL name VAL Tokyo Hair design COL categories VAL hairdresser 	0
+COL name VAL Commuters Café & Bar COL categories VAL cafe 	0
+COL name VAL Babbo COL categories VAL cafe 	0
+COL name VAL Master Dry Cleaners COL categories VAL dry_cleaning 	0
+COL name VAL Joe's Pizza Square COL categories VAL fast_food 	0
+COL name VAL Kebabs R Yummy COL categories VAL fast_food 	0
+COL name VAL Tiamo Hair Design COL categories VAL hairdresser 	0
+COL name VAL Public Toilets COL categories VAL toilets 	0
+COL name VAL Legacy COL categories VAL charity 	0
+COL name VAL NAB COL categories VAL atm 	0
+COL name VAL Mini Me Salon COL categories VAL hairdresser 	0
+COL name VAL Bridgestone COL categories VAL tyres 	0
+COL name VAL Infocomm Pty Ltd COL categories VAL office 	0
+COL name VAL Coventry Street/St Kilda Road COL categories VAL bicycle_rental 	0
+COL name VAL Parliament COL categories VAL subway_entrance 	0
+COL name VAL ZiNG Pop Culture COL categories VAL collector 	0
+COL name VAL Code Black Coffee COL categories VAL cafe 	0
+COL name VAL Red Spice Road COL categories VAL restaurant 	0
+COL name VAL Stevie COL categories VAL cafe 	0
+COL name VAL made in Japan COL categories VAL furniture 	0
+COL name VAL Harold Street COL categories VAL bus_stop 	0
+COL name VAL Zinc COL categories VAL cafe 	0
+COL name VAL Mr. Banks COL categories VAL bar 	0
+COL name VAL Bubba Pizza COL categories VAL restaurant 	0
+COL name VAL Upsize COL categories VAL cafe 	0
+COL name VAL Mr McCracken Bar and Restaurant COL categories VAL restaurant 	0
+COL name VAL Elliott St/Chauvel St COL categories VAL bus_stop 	0
+COL name VAL Marcella COL categories VAL restaurant 	0
+COL name VAL Kett Street COL categories VAL bus_stop 	0
+COL name VAL TAB COL categories VAL bookmaker 	0
+COL name VAL Newport Community Hub COL categories VAL community_centre 	1
+COL name VAL Bar Nacional COL categories VAL bar 	0
+COL name VAL Buckets and Spades for kids COL categories VAL clothes 	0
+COL name VAL State Theatre COL categories VAL theatre 	0
+COL name VAL Woolworths COL categories VAL supermarket 	0
+COL name VAL Blackhearts & Sparrows COL categories VAL alcohol 	0
+COL name VAL 366 Specialist Nedical Centre COL categories VAL clinic 	0
+COL name VAL St Vincent's Underground Car Park COL categories VAL parking 	0
+COL name VAL Toothpicks COL categories VAL cafe 	0
+COL name VAL F45 Training COL categories VAL leisure 	0
+COL name VAL Post Office Pizza Bar COL categories VAL fast_food 	0
+COL name VAL 4Cyte Pathology COL categories VAL clinic 	0
+COL name VAL Melbourne Boulevard Pharmacy COL categories VAL pharmacy 	0
+COL name VAL Nguyen hair salon COL categories VAL hairdresser 	0
+COL name VAL Collingwood Confidential COL categories VAL brothel 	0
+COL name VAL IGA COL categories VAL convenience 	0
+COL name VAL Barry Street Lunch Bar COL categories VAL fast_food 	0
+COL name VAL Aesop COL categories VAL beauty 	0
+COL name VAL Metcher's Dry Cleaning COL categories VAL dry_cleaning 	0
+COL name VAL Sandringham Yacht Club COL categories VAL information 	0
+COL name VAL Stockade Avenue/Pentridge Boulevard COL categories VAL bus_stop 	0
+COL name VAL William Angliss Institute COL categories VAL college 	1
+COL name VAL eMaxx Computers COL categories VAL office 	0
+COL name VAL Shanghai Street Xiaolongbao And Dumpling COL categories VAL restaurant 	0
+COL name VAL McDonald's COL categories VAL fast_food 	0
+COL name VAL Monash University Post Office COL categories VAL post_office 	0
+COL name VAL Hoyts COL categories VAL cinema 	0
+COL name VAL Ganton Ct/Tortice Dr COL categories VAL bus_stop 	0
+COL name VAL A Bite of China Hot Pot COL categories VAL restaurant 	0
+COL name VAL VisionPro COL categories VAL craft 	0
+COL name VAL Eltham Ridge Medical Centre COL categories VAL doctors 	1
+COL name VAL The Classic Pizza House COL categories VAL fast_food 	0
+COL name VAL White Lady Funerals COL categories VAL funeral_directors 	0
+COL name VAL Gown for a Night COL categories VAL clothes 	0
+COL name VAL Federici Bistro COL categories VAL restaurant 	0
+COL name VAL Sushi Izakaya bar COL categories VAL fast_food 	0
+COL name VAL zouki COL categories VAL restaurant 	0
+COL name VAL Croydon North MLOC Football Club COL categories VAL sport 	0
+COL name VAL Williams Florist COL categories VAL florist 	0
+COL name VAL St Vincent's Hospital COL categories VAL hospital 	1
+COL name VAL MGIC COL categories VAL clinic 	0
+COL name VAL RMIT University COL categories VAL university 	1
+COL name VAL Sunshine Central Medical Clinic COL categories VAL healthcare 	0
+COL name VAL Lance Dixon Bentley COL categories VAL car 	0
+COL name VAL Wandin North War Memorial COL categories VAL historic 	0
+COL name VAL Pioneer Walk Rock Monument COL categories VAL historic 	0
+COL name VAL The Kensington Fish Shop COL categories VAL fast_food 	0
+COL name VAL Peter Khalil MP, Federal member for Wills COL categories VAL office 	0
+COL name VAL Domino's COL categories VAL fast_food 	0
+COL name VAL Hotham Hill Licensed Post Office COL categories VAL post_office 	0
+COL name VAL Newcastle Street/Bell Street COL categories VAL bus_stop 	0
+COL name VAL IGA COL categories VAL supermarket 	0
+COL name VAL Grand Hotel COL categories VAL pub 	0
+COL name VAL Jellis Craig COL categories VAL office 	0
+COL name VAL Target COL categories VAL department_store 	0
+COL name VAL Matrix Fitness COL categories VAL dojo 	0
+COL name VAL Suits COL categories VAL clothes 	0
+COL name VAL Telstra Air COL categories VAL telephone 	0
+COL name VAL Merri Business Park/Normanby Avenue COL categories VAL bus_stop 	0
+COL name VAL Coles COL categories VAL supermarket 	0
+COL name VAL Pt. Leo Estate COL categories VAL craft 	1
+COL name VAL Hello Mellow COL categories VAL office 	0
+COL name VAL Marshall White COL categories VAL office 	0
+COL name VAL The Crib COL categories VAL clothes 	0
+COL name VAL Hungry Jacks COL categories VAL fast_food 	0
+COL name VAL Woodstock COL categories VAL cafe 	0
+COL name VAL Lolo's Takeaway COL categories VAL fast_food 	0
+COL name VAL Bellvue Street/Blyth Street COL categories VAL bus_stop 	0
+COL name VAL Minh Hưng COL categories VAL seafood 	0
+COL name VAL UBar COL categories VAL pub 	0
+COL name VAL Barkers COL categories VAL restaurant 	0
+COL name VAL JD Sports COL categories VAL sports 	0
+COL name VAL Three Phase Rehearsal Studios COL categories VAL studio 	1
+COL name VAL Hoyts COL categories VAL cinema 	0
+COL name VAL St. Eustathios Church COL categories VAL place_of_worship 	0
+COL name VAL Bayside Shopping Centre COL categories VAL mall 	1
+COL name VAL An Nam COL categories VAL restaurant 	0
+COL name VAL Mai Tram Hair COL categories VAL hairdresser 	0
+COL name VAL Greenwood Park Playground COL categories VAL leisure 	0
+COL name VAL St James' Op-Shop COL categories VAL second_hand 	0
+COL name VAL Real Thai COL categories VAL massage 	0
+COL name VAL Glen Eira Town Hall COL categories VAL townhall 	1
+COL name VAL Victoria Street COL categories VAL bus_stop 	0
+COL name VAL Nasi Lemak House COL categories VAL restaurant 	0
+COL name VAL Langwarrin Shopping Centre COL categories VAL mall 	1
+COL name VAL Somerville and district panels COL categories VAL car_repair 	0
+COL name VAL Le Pine COL categories VAL funeral_directors 	0
+COL name VAL Rifle Club Hotel COL categories VAL pub 	0
+COL name VAL Ocean View Cafe COL categories VAL cafe 	0
+COL name VAL Coburg Library COL categories VAL library 	0
+COL name VAL Bay City Nissan COL categories VAL car 	0
+COL name VAL Fitzroy Business Centre COL categories VAL post_office 	0
+COL name VAL Marcs COL categories VAL clothes 	0
+COL name VAL Lance Dixon Service COL categories VAL car_repair 	0
+COL name VAL Northside Records COL categories VAL music 	0
+COL name VAL Snag Stand COL categories VAL fast_food 	0
+COL name VAL Subway COL categories VAL fast_food 	0
+COL name VAL Monticello Pizza COL categories VAL restaurant 	0
+COL name VAL Fireflies COL categories VAL restaurant 	0
+COL name VAL Stick It Grill COL categories VAL fast_food 	0
+COL name VAL Queens Bridge, Southbank COL categories VAL bicycle_rental 	0
+COL name VAL Big W COL categories VAL department_store 	0
+COL name VAL McDonald's COL categories VAL fast_food 	0
+COL name VAL Ta Quang Huy & Associates COL categories VAL office 	0
+COL name VAL Mecca Bros. Fruit & Vegetables COL categories VAL supermarket 	0
+COL name VAL Sir Charles COL categories VAL cafe 	0
+COL name VAL Bicycle Lockers COL categories VAL bicycle_parking 	0
+COL name VAL Midas COL categories VAL car_repair 	0
+COL name VAL The Print Place COL categories VAL copyshop 	0
+COL name VAL Caltex COL categories VAL fuel 	0
+COL name VAL Dia Tang Vuong COL categories VAL artwork 	0
+COL name VAL Aria COL categories VAL restaurant 	0
+COL name VAL Optus COL categories VAL mobile_phone 	0
+COL name VAL Meadow Street/Elizabeth Street COL categories VAL bus_stop 	0
+COL name VAL Sandringham Youth Club COL categories VAL leisure 	1
+COL name VAL Subway COL categories VAL fast_food 	0
+COL name VAL By Korea COL categories VAL restaurant 	0
+COL name VAL City Residential COL categories VAL office 	0
+COL name VAL Ashley Street Medical Centre COL categories VAL doctors 	0
+COL name VAL Law Library COL categories VAL library 	0
+COL name VAL Westside Fish and Chips COL categories VAL fast_food 	0
+COL name VAL myki COL categories VAL vending_machine 	0
+COL name VAL La Trobe Street COL categories VAL bus_stop 	0
+COL name VAL Njoy COL categories VAL fast_food 	0
+COL name VAL Bike Zone COL categories VAL bicycle 	0
+COL name VAL Schnitz COL categories VAL fast_food 	0
+COL name VAL Edan Motors COL categories VAL car_repair 	0

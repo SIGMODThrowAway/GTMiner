@@ -1,0 +1,445 @@
+COL name VAL Toronto Head & Neck Clinic COL categories VAL clinic 	0
+COL name VAL Museum COL categories VAL subway_entrance 	0
+COL name VAL Ark Army Surplus COL categories VAL outdoor 	0
+COL name VAL Pinnacle Centre COL categories VAL Home Services; Real Estate; Apartments 	1
+COL name VAL Josh Matlow, City Councillor COL categories VAL office 	0
+COL name VAL Allied Properties REIT COL categories VAL office 	0
+COL name VAL Fido COL categories VAL mobile_phone 	0
+COL name VAL Nathan Phillips Square COL categories VAL Active Life; Landmarks & Historical Buildings; Public Services & Government; Parks 	1
+COL name VAL Moxie's COL categories VAL restaurant 	0
+COL name VAL Jarvis Street COL categories VAL bus_stop 	0
+COL name VAL Optical Showcase COL categories VAL optician 	0
+COL name VAL Mount Sinai Hospital COL categories VAL Medical Centers; Hospitals; Health & Medical 	1
+COL name VAL Consulate General of Hungary COL categories VAL office 	0
+COL name VAL Pumpernickel's COL categories VAL fast_food 	0
+COL name VAL Rebel COL categories VAL nightclub 	0
+COL name VAL Potato Skins COL categories VAL furniture 	0
+COL name VAL CIBC COL categories VAL bank 	0
+COL name VAL Vaticano Ristorante COL categories VAL restaurant 	0
+COL name VAL brand=Chatime COL categories VAL cafe 	0
+COL name VAL Thomas Cook / Confidence Travel COL categories VAL travel_agency 	0
+COL name VAL Consulate General of India COL categories VAL office 	0
+COL name VAL The Dirty Bird Chicken + Waffles COL categories VAL fast_food 	0
+COL name VAL Arrowsmith School COL categories VAL school 	0
+COL name VAL La Luz de Cristo COL categories VAL place_of_worship 	0
+COL name VAL Mastermind Toys COL categories VAL toys 	0
+COL name VAL Warrarich Meats COL categories VAL fast_food 	0
+COL name VAL Canadian Football League COL categories VAL office 	0
+COL name VAL The Orbit Room COL categories VAL bar 	0
+COL name VAL General Synod of the Anglican Church of Canada COL categories VAL office 	0
+COL name VAL Wine Rack COL categories VAL wine 	0
+COL name VAL Pizza Hut Express COL categories VAL fast_food 	0
+COL name VAL Flair Cleaners COL categories VAL dry_cleaning 	0
+COL name VAL Caplansky's Deli COL categories VAL deli 	0
+COL name VAL Eglinton West Law Office COL categories VAL office 	0
+COL name VAL Piazza Manna COL categories VAL fast_food 	0
+COL name VAL Centennial College COL categories VAL Colleges & Universities; Education 	1
+COL name VAL Front Street East COL categories VAL bus_stop 	0
+COL name VAL WirelessWave COL categories VAL mobile_phone 	0
+COL name VAL Dragon City COL categories VAL Shopping; Shopping Centers 	1
+COL name VAL Tim Hortons COL categories VAL cafe 	0
+COL name VAL 3030 COL categories VAL bar 	0
+COL name VAL Walking on a Cloud COL categories VAL shoes 	0
+COL name VAL Bahn Mi Boys COL categories VAL fast_food 	0
+COL name VAL Trattoria Leonardo COL categories VAL restaurant 	0
+COL name VAL Muddy George COL categories VAL clothes 	0
+COL name VAL Alcorn Hair COL categories VAL hairdresser 	0
+COL name VAL Robarts Library COL categories VAL Public Services & Government; Libraries 	1
+COL name VAL Industrial and Commercial Bank of China COL categories VAL bank 	0
+COL name VAL OK2 Diner COL categories VAL restaurant 	0
+COL name VAL Shoppers Drug Mart COL categories VAL pharmacy 	0
+COL name VAL Second Cup COL categories VAL cafe 	0
+COL name VAL Paws & Claws COL categories VAL pet 	0
+COL name VAL Glass Monocle COL categories VAL optician 	0
+COL name VAL Jimmie Simpson Park COL categories VAL Active Life; Parks 	1
+COL name VAL Flxme COL categories VAL leisure 	0
+COL name VAL 8th and Main COL categories VAL clothes 	0
+COL name VAL Scarborough Centre COL categories VAL subway_entrance 	0
+COL name VAL Fleck Dance Theatre COL categories VAL theatre 	0
+COL name VAL City of Toronto - Downtown Toronto Social Services COL categories VAL social_services 	0
+COL name VAL Tonic Eye Care & Vision Therapy COL categories VAL optician 	0
+COL name VAL Robo Cafe COL categories VAL vending_machine 	0
+COL name VAL Lunsky Optometry COL categories VAL healthcare 	0
+COL name VAL Canadore College - Stanford Scarborough Campus COL categories VAL college 	0
+COL name VAL Pizza Nova COL categories VAL fast_food 	0
+COL name VAL What A Bagel COL categories VAL fast_food 	0
+COL name VAL CJ Health Care College COL categories VAL office 	0
+COL name VAL Crave Grill House COL categories VAL restaurant 	0
+COL name VAL The Carbon Bar COL categories VAL bar 	0
+COL name VAL Lavelle COL categories VAL restaurant 	0
+COL name VAL Dee'tails Dog Grooming COL categories VAL pet_grooming 	0
+COL name VAL Sure Choice Auto Service Centre COL categories VAL car_repair 	0
+COL name VAL Toronto Hippo Tours COL categories VAL tours 	0
+COL name VAL Mont Blanc COL categories VAL jewelry 	0
+COL name VAL Nairn Avenue COL categories VAL bus_stop 	0
+COL name VAL Dufferin Mall COL categories VAL Shopping Centers; Shopping 	1
+COL name VAL Patient Networks COL categories VAL doctors 	0
+COL name VAL The Medicine Shoppe COL categories VAL pharmacy 	0
+COL name VAL Feiyang Holistic Center COL categories VAL massage 	0
+COL name VAL Albert's Real Jamaican Foods COL categories VAL fast_food 	0
+COL name VAL Toronto Star COL categories VAL vending_machine 	0
+COL name VAL Support For Lesbians & Gays COL categories VAL office 	0
+COL name VAL Wellesley Convenience COL categories VAL convenience 	0
+COL name VAL Neptune Hair Salon COL categories VAL restaurant 	0
+COL name VAL Dr. Filipko Jarmila, DDS COL categories VAL dentist 	0
+COL name VAL Kennedy Road COL categories VAL motorway_junction 	0
+COL name VAL da Vinci School COL categories VAL school 	0
+COL name VAL Finch Avenue at Highway 27 COL categories VAL bus_stop 	0
+COL name VAL Curry Twist COL categories VAL restaurant 	0
+COL name VAL Bulk Barn COL categories VAL supermarket 	0
+COL name VAL Glassbox Barbershop COL categories VAL hairdresser 	0
+COL name VAL Coco COL categories VAL cafe 	0
+COL name VAL Cell-Tech COL categories VAL mobile_phone 	0
+COL name VAL CODA COL categories VAL bar 	0
+COL name VAL Toronto Star, Toronto Sun COL categories VAL vending_machine 	0
+COL name VAL Roland & Romaine School of Dance COL categories VAL school 	0
+COL name VAL Eglinton Station COL categories VAL bus_stop 	0
+COL name VAL Lucky Lucianos COL categories VAL fast_food 	0
+COL name VAL Starbucks COL categories VAL cafe 	0
+COL name VAL I'll be seeing you... COL categories VAL restaurant 	0
+COL name VAL Pho Chay 88 COL categories VAL restaurant 	0
+COL name VAL Petro-Canada COL categories VAL fuel 	0
+COL name VAL Golden Thai COL categories VAL restaurant 	0
+COL name VAL 7 Days Convenience COL categories VAL convenience 	0
+COL name VAL Bike Share Toronto COL categories VAL bicycle_rental 	0
+COL name VAL Naka Ima Movement Arts COL categories VAL leisure 	0
+COL name VAL Hong Fook Mental Health Organization COL categories VAL office 	0
+COL name VAL M Boutique COL categories VAL clothes 	0
+COL name VAL Spa-Nails COL categories VAL beauty 	0
+COL name VAL Galleria on the Park COL categories VAL condo 	0
+COL name VAL CN Tower COL categories VAL Landmarks & Historical Buildings; Public Services & Government; Arts & Entertainment; Observatories 	1
+COL name VAL Pizza Pizza COL categories VAL fast_food 	0
+COL name VAL Purdys Chocolatier COL categories VAL chocolate 	0
+COL name VAL Shoppers Drug Mart COL categories VAL Shopping; Drugstores 	1
+COL name VAL Dolce Bakery COL categories VAL bakery 	0
+COL name VAL Terminal Barber Shop COL categories VAL hairdresser 	0
+COL name VAL The Eye Exam Place COL categories VAL optician 	0
+COL name VAL Uncle Tetsu's Japanese Angel Cafe COL categories VAL cafe 	0
+COL name VAL Riverdale Farm COL categories VAL zoo 	0
+COL name VAL Asia Delight COL categories VAL fast_food 	0
+COL name VAL Clandestino Wine Bar COL categories VAL bar 	0
+COL name VAL Woodbine Racetrack COL categories VAL Arts & Entertainment; Stadiums & Arenas 	1
+COL name VAL Circle K COL categories VAL convenience 	0
+COL name VAL Chris Jerk COL categories VAL restaurant 	0
+COL name VAL Jane Central Pharmacy COL categories VAL pharmacy 	0
+COL name VAL Bistro 422 COL categories VAL bar 	0
+COL name VAL Everything Vape COL categories VAL e-cigarette 	0
+COL name VAL Davenport Road COL categories VAL bus_stop 	0
+COL name VAL Green's Antiques COL categories VAL antiques 	0
+COL name VAL Magic Noodle COL categories VAL restaurant 	0
+COL name VAL Dora Keogh COL categories VAL pub 	0
+COL name VAL Great Art School of Music (GASM) COL categories VAL music_school 	0
+COL name VAL Planta Burger COL categories VAL restaurant 	0
+COL name VAL Maple Leaf Computers & Cellphone COL categories VAL computer 	0
+COL name VAL Brioche Dorée COL categories VAL bakery 	0
+COL name VAL Cinnabon COL categories VAL fast_food 	0
+COL name VAL Chatr COL categories VAL mobile_phone 	0
+COL name VAL Support posts from demolished Gardiner Expressway COL categories VAL artwork 	0
+COL name VAL Jim’s Place COL categories VAL apartment 	0
+COL name VAL Phantom Outlet COL categories VAL clothes 	0
+COL name VAL Revue Cinema COL categories VAL cinema 	0
+COL name VAL Gooderham Building COL categories VAL Landmarks & Historical Buildings; Public Services & Government 	1
+COL name VAL Newport Fish & Seafood COL categories VAL seafood 	0
+COL name VAL Pop-Up art COL categories VAL unknown 	0
+COL name VAL Black Irish COL categories VAL pub 	0
+COL name VAL Koodo COL categories VAL mobile_phone 	0
+COL name VAL Duffy's Diner COL categories VAL restaurant 	0
+COL name VAL Rainbow Electric COL categories VAL hairdresser_supply 	0
+COL name VAL Comfort Space Spa COL categories VAL spa 	0
+COL name VAL The Portuguese Bake Shop COL categories VAL bakery 	0
+COL name VAL Chatime COL categories VAL cafe 	0
+COL name VAL Aaron's COL categories VAL furniture 	0
+COL name VAL Crescent Dental Health Clinic COL categories VAL dentist 	0
+COL name VAL Jewels by Koby COL categories VAL jewelry 	0
+COL name VAL Chatter COL categories VAL cafe 	0
+COL name VAL FiGO COL categories VAL restaurant 	0
+COL name VAL Paws’ World COL categories VAL pet 	0
+COL name VAL City Hall Parking COL categories VAL parking_entrance 	0
+COL name VAL Parkview Convenience COL categories VAL convenience 	0
+COL name VAL Zenith Shoes COL categories VAL shoes 	0
+COL name VAL Tony's Place COL categories VAL hairdresser 	0
+COL name VAL RBC COL categories VAL bank 	0
+COL name VAL B.A. & M Trading Ltd. COL categories VAL convenience 	0
+COL name VAL Greg's Ice Cream COL categories VAL fast_food 	0
+COL name VAL The Mercantile COL categories VAL deli 	0
+COL name VAL IC Savings COL categories VAL bank 	0
+COL name VAL Ryerson University COL categories VAL Education; Colleges & Universities 	1
+COL name VAL Cedarbrae Mall COL categories VAL Shopping; Shopping Centers 	1
+COL name VAL Gardenview Convenience COL categories VAL convenience 	0
+COL name VAL Domino's COL categories VAL fast_food 	0
+COL name VAL Kajama COL categories VAL attraction 	0
+COL name VAL Rogers Centre COL categories VAL Arts & Entertainment; Stadiums & Arenas; Active Life; Landmarks & Historical Buildings; Public Services & Government; Baseball Fields 	1
+COL name VAL Royal LePage COL categories VAL office 	0
+COL name VAL The Printing House COL categories VAL printing 	0
+COL name VAL Dollarama COL categories VAL variety_store 	0
+COL name VAL Good Future COL categories VAL clothes 	0
+COL name VAL Blush Nail Bar COL categories VAL beauty 	0
+COL name VAL Enco Auto Trim COL categories VAL car_repair 	0
+COL name VAL Sana Footwear COL categories VAL shoes 	0
+COL name VAL Loblaws COL categories VAL Food; Restaurants; Cafes; Grocery 	1
+COL name VAL Alice's Place COL categories VAL bar 	0
+COL name VAL Front Street West COL categories VAL bus_stop 	0
+COL name VAL Bagel & Co. COL categories VAL fast_food 	0
+COL name VAL iRepair.ca COL categories VAL mobile_phone 	0
+COL name VAL Convenience.com COL categories VAL convenience 	0
+COL name VAL Faema COL categories VAL electronics 	0
+COL name VAL Vogue Nails COL categories VAL beauty 	0
+COL name VAL Gaia Natural Foods COL categories VAL health_food 	0
+COL name VAL LCBO COL categories VAL alcohol 	0
+COL name VAL Ed Mirvish Theatre COL categories VAL theatre 	0
+COL name VAL Gateway Day Care Centre COL categories VAL childcare 	0
+COL name VAL Vintage Thai COL categories VAL restaurant 	0
+COL name VAL Veghed Fresh Bar COL categories VAL fast_food 	0
+COL name VAL Comfort Zone COL categories VAL shoes 	0
+COL name VAL Laura COL categories VAL clothes 	0
+COL name VAL Learner's Academy Driving School COL categories VAL driving_school 	0
+COL name VAL Cineplex Cinemas Yonge-Dundas and VIP COL categories VAL cinema 	0
+COL name VAL Antonia Grocery COL categories VAL convenience 	0
+COL name VAL Humber College Bus Terminal Platform 5 COL categories VAL platform 	0
+COL name VAL TD Canada Trust COL categories VAL bank 	0
+COL name VAL Pita-Q COL categories VAL fast_food 	0
+COL name VAL Mother Earth Centre COL categories VAL craft 	0
+COL name VAL Margis Pharmacy COL categories VAL pharmacy 	0
+COL name VAL Charley's Steakery COL categories VAL fast_food 	0
+COL name VAL McDonald's COL categories VAL fast_food 	0
+COL name VAL Midtown Med Spa Anti-Aging & Laser Skin Clinic COL categories VAL clinic 	0
+COL name VAL Summit Natural Health Centre COL categories VAL healthcare 	0
+COL name VAL Gaspard COL categories VAL clothes 	0
+COL name VAL Birchmount Road at Canadian Road COL categories VAL bus_stop 	0
+COL name VAL Healthy Planet COL categories VAL nutrition_supplements 	0
+COL name VAL Brookbanks Drive COL categories VAL bus_stop 	0
+COL name VAL Nordstrom COL categories VAL Women's Clothing; Fashion; Men's Clothing; Shopping; Department Stores 	1
+COL name VAL Saje COL categories VAL cosmetics 	0
+COL name VAL In Tre Cafe COL categories VAL cafe 	0
+COL name VAL revitasize COL categories VAL fast_food 	0
+COL name VAL Dave's Hot Chicken COL categories VAL restaurant 	0
+COL name VAL Salon Miraj COL categories VAL hairdresser 	0
+COL name VAL Toronto City Hall COL categories VAL Landmarks & Historical Buildings; Public Services & Government 	1
+COL name VAL Mr. Sub COL categories VAL fast_food 	0
+COL name VAL VRPlayin COL categories VAL leisure 	0
+COL name VAL Yonge Street COL categories VAL bus_stop 	0
+COL name VAL Ontario Conservatory of Music COL categories VAL musical_instrument 	0
+COL name VAL Ellesmere Animal Hospital COL categories VAL veterinary 	0
+COL name VAL Shoes for You COL categories VAL shoes 	0
+COL name VAL Masjid Al Jannah COL categories VAL place_of_worship 	0
+COL name VAL Jack and Lil's COL categories VAL restaurant 	0
+COL name VAL Second Cup COL categories VAL cafe 	0
+COL name VAL Bar Wellington COL categories VAL pub 	0
+COL name VAL Morning Flowers COL categories VAL vacant 	0
+COL name VAL International News COL categories VAL convenience 	0
+COL name VAL First Class Drones COL categories VAL office 	0
+COL name VAL Hart House Library COL categories VAL library 	0
+COL name VAL Pam's Roti COL categories VAL restaurant 	0
+COL name VAL Paparazzi Kids COL categories VAL clothes 	0
+COL name VAL Lotte Beauty Salon/Lotte Hair Salon COL categories VAL hairdresser 	0
+COL name VAL Freshslice COL categories VAL fast_food 	0
+COL name VAL Sports Medicine Rehabilitation COL categories VAL healthcare 	0
+COL name VAL Glass Dreams COL categories VAL art 	0
+COL name VAL Queen Street Laundry COL categories VAL laundry 	0
+COL name VAL For Lease COL categories VAL vacant 	0
+COL name VAL Upper Beach Health & Wellness COL categories VAL clinic 	0
+COL name VAL Gravitypope COL categories VAL clothes 	0
+COL name VAL Bike Share Toronto COL categories VAL bicycle_rental 	0
+COL name VAL The Ten Spot COL categories VAL beauty 	0
+COL name VAL Correnti Cigars COL categories VAL tobacco 	0
+COL name VAL Super Discount Store COL categories VAL discount 	0
+COL name VAL Scarborough Buffet COL categories VAL restaurant 	0
+COL name VAL Angelique Flowers COL categories VAL florist 	0
+COL name VAL Stellar Culinary Personnel COL categories VAL office 	0
+COL name VAL Scarborough Centre Station COL categories VAL bus_stop 	0
+COL name VAL Shuter Street COL categories VAL bus_stop 	0
+COL name VAL Starbucks COL categories VAL cafe 	0
+COL name VAL Aspen Cleaners COL categories VAL laundry 	0
+COL name VAL CF Toronto Eaton Centre COL categories VAL Shopping Centers; Shopping 	1
+COL name VAL Si Espresso Bar COL categories VAL bar 	0
+COL name VAL New York Fur COL categories VAL clothes 	0
+COL name VAL Dollarama COL categories VAL variety_store 	0
+COL name VAL Commercial Vision COL categories VAL office 	0
+COL name VAL Pet Valu COL categories VAL pet 	0
+COL name VAL Bell COL categories VAL mobile_phone 	0
+COL name VAL Canada Post COL categories VAL post_office 	0
+COL name VAL AnimeXtreme COL categories VAL anime 	0
+COL name VAL Machino Cafe COL categories VAL cafe 	0
+COL name VAL National Bank COL categories VAL bank 	0
+COL name VAL Shoppers Drug Mart COL categories VAL pharmacy 	0
+COL name VAL Clearly COL categories VAL optician 	0
+COL name VAL Humber College COL categories VAL Books; Mags; Music & Video; Shopping; Bookstores; Colleges & Universities; Education 	1
+COL name VAL Stanley Park COL categories VAL Dog Parks; Active Life; Parks 	1
+COL name VAL Virgin Plus COL categories VAL mobile_phone 	0
+COL name VAL Duke of Somerset COL categories VAL vacant 	0
+COL name VAL The Runner's Shop COL categories VAL sports 	0
+COL name VAL Toronto Council Fire Native Cultural Centre COL categories VAL arts_centre 	0
+COL name VAL Esso COL categories VAL Gas Stations; Automotive 	1
+COL name VAL Paradise Print COL categories VAL copyshop 	0
+COL name VAL Country Style COL categories VAL cafe 	0
+COL name VAL Red House Music Academy COL categories VAL music_school 	0
+COL name VAL Evans Real Estate COL categories VAL office 	0
+COL name VAL Value Mobile COL categories VAL mobile_phone 	0
+COL name VAL Thai One On COL categories VAL restaurant 	0
+COL name VAL Milliken Park COL categories VAL Active Life; Parks 	1
+COL name VAL Lansdowne COL categories VAL subway_entrance 	0
+COL name VAL Daio COL categories VAL restaurant 	0
+COL name VAL Instacoin ATM COL categories VAL atm 	0
+COL name VAL Toronto Public Library - Northern District COL categories VAL library 	0
+COL name VAL Milky's Cloud Room COL categories VAL cafe 	0
+COL name VAL Subway COL categories VAL fast_food 	0
+COL name VAL Light Showers COL categories VAL fountain 	0
+COL name VAL Anthony Passero Salon COL categories VAL hairdresser 	0
+COL name VAL Fardin Fashion COL categories VAL clothes 	0
+COL name VAL Grad Room COL categories VAL cafe 	0
+COL name VAL bubbletease COL categories VAL fast_food 	0
+COL name VAL BLD Restaurant COL categories VAL restaurant 	0
+COL name VAL ServiceOntario COL categories VAL office 	0
+COL name VAL Burgers n' Fries Forever COL categories VAL fast_food 	0
+COL name VAL Bendale Bible Chapel COL categories VAL place_of_worship 	0
+COL name VAL The Village Pharmacy COL categories VAL pharmacy 	0
+COL name VAL Playa Cabana Taqueria COL categories VAL restaurant 	0
+COL name VAL City Fried Chicken & Pizza COL categories VAL restaurant 	0
+COL name VAL Anna Bella COL categories VAL clothes 	0
+COL name VAL City Hall Public Library COL categories VAL Libraries; Public Services & Government 	0
+COL name VAL The Oxley COL categories VAL Gastropubs; Bars; British; Nightlife; Pubs; Restaurants 	1
+COL name VAL Family Dental Centre Dr. J. Paul Phillips COL categories VAL dentist 	0
+COL name VAL Annex Billiard Club COL categories VAL pub 	0
+COL name VAL Coin Laundry COL categories VAL laundry 	0
+COL name VAL Starbucks COL categories VAL cafe 	0
+COL name VAL Little Nicky's Coffee COL categories VAL cafe 	0
+COL name VAL RE/MAX COL categories VAL office 	0
+COL name VAL Meena's Linens COL categories VAL department_store 	0
+COL name VAL Sugar and Spice Childrens boutique COL categories VAL boutique 	0
+COL name VAL L'Amoreaux C.I. swimming pool COL categories VAL leisure 	0
+COL name VAL French Quarter Convenience & Grocery COL categories VAL convenience 	0
+COL name VAL Zipcar COL categories VAL car_sharing 	0
+COL name VAL Food Basics COL categories VAL Food; Grocery 	1
+COL name VAL Sora Beauty Salon COL categories VAL hairdresser 	0
+COL name VAL Liberty Village Eye Care COL categories VAL optician 	0
+COL name VAL Mii Sandwich COL categories VAL fast_food 	0
+COL name VAL Service Canada COL categories VAL government_office 	0
+COL name VAL Tropical Venue COL categories VAL restaurant 	0
+COL name VAL Lalibela Restaurant COL categories VAL restaurant 	0
+COL name VAL Joe Fresh COL categories VAL Children's Clothing; Shopping; Fashion; Women's Clothing; Men's Clothing 	0
+COL name VAL Soho Metropolitan Hotel COL categories VAL Hotels & Travel; Apartments; Hotels; Home Services; Real Estate; Event Planning & Services 	1
+COL name VAL Purba Furniture COL categories VAL furniture 	0
+COL name VAL 918 Bathurst COL categories VAL Shopping; Event Planning & Services; Art Galleries; Arts & Entertainment; Education; Performing Arts; Venues & Event Spaces 	1
+COL name VAL Bloor Walk-in Clinic COL categories VAL clinic 	0
+COL name VAL Bell COL categories VAL mobile_phone 	0
+COL name VAL Bart Habrowski, D.D. COL categories VAL dentist 	0
+COL name VAL weewatch COL categories VAL office 	0
+COL name VAL Bosnar Centre for Health COL categories VAL healthcare 	0
+COL name VAL Happy Coffee and Wine COL categories VAL cafe 	0
+COL name VAL Pearle Vision COL categories VAL optician 	0
+COL name VAL Chocolate Charm COL categories VAL chocolate 	0
+COL name VAL Mansueta Medical Garment Fitters COL categories VAL clothes 	0
+COL name VAL Clay COL categories VAL restaurant 	0
+COL name VAL Sushi Zone COL categories VAL restaurant 	0
+COL name VAL Xing Futang COL categories VAL restaurant 	0
+COL name VAL Circle K COL categories VAL convenience 	0
+COL name VAL Optical Value COL categories VAL optician 	0
+COL name VAL Bathurst Street COL categories VAL bus_stop 	0
+COL name VAL Bergo COL categories VAL gift 	0
+COL name VAL Dentists on Bloor COL categories VAL dentist 	0
+COL name VAL Bike Share Toronto COL categories VAL bicycle_rental 	0
+COL name VAL Lawrence Mart COL categories VAL convenience 	0
+COL name VAL The Hogtown Vegan COL categories VAL restaurant 	0
+COL name VAL Haircut COL categories VAL hairdresser 	0
+COL name VAL Frenchie’s Doughnuts COL categories VAL bakery 	0
+COL name VAL Warby Parker COL categories VAL optician 	0
+COL name VAL York Street;Bay Street;Yonge Street COL categories VAL motorway_junction 	0
+COL name VAL Arcana COL categories VAL hairdresser 	0
+COL name VAL Old City Hall COL categories VAL information 	0
+COL name VAL Sleep Country COL categories VAL bed 	0
+COL name VAL Demetres COL categories VAL restaurant 	0
+COL name VAL The Home Depot COL categories VAL Home & Garden; Fashion; Nurseries & Gardening; Building Supplies; Hardware Stores; Home Services; Shopping; Department Stores; Appliances 	1
+COL name VAL The Hogtown Vegan COL categories VAL restaurant 	0
+COL name VAL The Tailor & The Cleaner COL categories VAL dry_cleaning 	0
+COL name VAL Five Star Convenience COL categories VAL convenience 	0
+COL name VAL Geox COL categories VAL shoes 	0
+COL name VAL Dr. M Staniszewski COL categories VAL dentist 	0
+COL name VAL Freedom Mobile COL categories VAL mobile_phone 	0
+COL name VAL The Broadview Hotel COL categories VAL Hotels & Travel; Event Planning & Services; Hotels 	1
+COL name VAL Articulations COL categories VAL art 	0
+COL name VAL McLaren McCann COL categories VAL office 	0
+COL name VAL Post box COL categories VAL post_box 	0
+COL name VAL Neptune Drive at Rajah Street COL categories VAL bus_stop 	0
+COL name VAL Thaï Express COL categories VAL fast_food 	0
+COL name VAL NeoHome COL categories VAL houseware 	0
+COL name VAL Yamaha Music School COL categories VAL musical_instrument 	0
+COL name VAL Parkway Mall COL categories VAL Shopping Centers; Shopping 	1
+COL name VAL Money Mart COL categories VAL money_lender 	0
+COL name VAL Cali Mexican Grill COL categories VAL fast_food 	0
+COL name VAL Odds and Ends COL categories VAL second_hand 	0
+COL name VAL Market 707 COL categories VAL Shopping Centers; Shopping; Tapas/Small Plates; Restaurants 	1
+COL name VAL Toronto Hanin Community Services COL categories VAL office 	0
+COL name VAL Benjamin Moore COL categories VAL paint 	0
+COL name VAL The Beer Store COL categories VAL alcohol 	0
+COL name VAL Jump COL categories VAL restaurant 	0
+COL name VAL Canadian Tire COL categories VAL car_repair 	0
+COL name VAL Royal Ontario Museum COL categories VAL Shopping; Art Galleries; Arts & Entertainment; Museums 	1
+COL name VAL Sansotei Ramen COL categories VAL restaurant 	0
+COL name VAL Wellesley Street West COL categories VAL bus_stop 	0
+COL name VAL Roti King COL categories VAL restaurant 	0
+COL name VAL Davenport Road COL categories VAL bus_stop 	0
+COL name VAL Moneris COL categories VAL office 	0
+COL name VAL Auleaf Cafe COL categories VAL cafe 	0
+COL name VAL Platinum Barbers COL categories VAL hairdresser 	0
+COL name VAL Columbia Dental COL categories VAL dentist 	0
+COL name VAL Meet You COL categories VAL fast_food 	0
+COL name VAL Lebanon Express COL categories VAL restaurant 	0
+COL name VAL Harry Rosen COL categories VAL clothes 	0
+COL name VAL Start Auto Electric Ltd. COL categories VAL car_repair 	0
+COL name VAL Queens Quay West & Lower Simcoe Street COL categories VAL bicycle_rental 	0
+COL name VAL Tam 88 Jewellery Design COL categories VAL jewelry 	0
+COL name VAL Yorkdale Shopping Centre COL categories VAL Shopping Centers; Shopping 	1
+COL name VAL Rexdale Dental COL categories VAL dentist 	0
+COL name VAL Hilary MacMillan Studio COL categories VAL clothes 	0
+COL name VAL Mama Lee's Korean Kitchen COL categories VAL fast_food 	0
+COL name VAL Popeyes COL categories VAL fast_food 	0
+COL name VAL All Star Wing & Ribs COL categories VAL sports 	0
+COL name VAL Le Papillon on Front COL categories VAL restaurant 	0
+COL name VAL Ossington Stop COL categories VAL restaurant 	0
+COL name VAL Dayton Self Storage COL categories VAL storage 	0
+COL name VAL Pearle COL categories VAL vacant 	0
+COL name VAL Snuggle Bugz COL categories VAL baby_goods 	0
+COL name VAL Sleep Country COL categories VAL Home & Garden; Shopping; Furniture Stores; Mattresses 	1
+COL name VAL Bulk Food Centre COL categories VAL confectionery 	0
+COL name VAL Scotiabank COL categories VAL bank 	0
+COL name VAL Union Station COL categories VAL Landmarks & Historical Buildings; Public Transportation; Public Services & Government; Transportation; Train Stations; Hotels & Travel 	1
+COL name VAL MorsoMe COL categories VAL restaurant 	0
+COL name VAL Hyatt Regency Toronto COL categories VAL Event Planning & Services; Hotels; Hotels & Travel 	1
+COL name VAL Tim Hortons COL categories VAL cafe 	0
+COL name VAL Victory Sanctuary of Praise COL categories VAL place_of_worship 	0
+COL name VAL Northumberland Street COL categories VAL bus_stop 	0
+COL name VAL Booster Juice COL categories VAL fast_food 	0
+COL name VAL Barrio Cerveceria COL categories VAL restaurant 	0
+COL name VAL Food Depot COL categories VAL deli 	0
+COL name VAL Fairstone Financial COL categories VAL money_lender 	0
+COL name VAL May Street COL categories VAL bus_stop 	0
+COL name VAL Glen Village Family Dental COL categories VAL dentist 	0
+COL name VAL CTE Vapes COL categories VAL vape 	0
+COL name VAL Riverdale Park West COL categories VAL Parks; Dog Parks; Active Life; Swimming Pools 	1
+COL name VAL Computer Shop COL categories VAL computer 	0
+COL name VAL The Strathcona Hotel COL categories VAL Hotels & Travel; Bars; Event Planning & Services; Hotels; Pubs; Nightlife 	1
+COL name VAL Fête Floral + Events COL categories VAL florist 	0
+COL name VAL Shambhala Meditation Centre of Toronto COL categories VAL healthcare 	0
+COL name VAL Asian Gourmet COL categories VAL fast_food 	0
+COL name VAL Sidney Smith Hall COL categories VAL Colleges & Universities; Education 	1
+COL name VAL Godiva Chocolatier COL categories VAL chocolate 	0
+COL name VAL Spadina Animal Hospital COL categories VAL veterinary 	0
+COL name VAL Police entrance only COL categories VAL parking 	0
+COL name VAL Kitchen Table COL categories VAL supermarket 	0
+COL name VAL Canada's National Ballet School COL categories VAL Event Planning & Services; Arts & Entertainment; Dance Schools; Specialty Schools; Venues & Event Spaces; Opera & Ballet; Education 	1
+COL name VAL Glamour One COL categories VAL clothes 	0
+COL name VAL Bluenotes COL categories VAL clothes 	0
+COL name VAL Hot dog stand COL categories VAL fast_food 	0
+COL name VAL Caribbean Queen COL categories VAL fast_food 	0
+COL name VAL Sushi Karu COL categories VAL restaurant 	0
+COL name VAL Swiss Chalet COL categories VAL restaurant 	0
+COL name VAL Vapers on Bloor COL categories VAL vape 	0
+COL name VAL Sunrise Food Fair COL categories VAL convenience 	0
+COL name VAL Cards, Gifts & Stationary COL categories VAL gift 	0
+COL name VAL School COL categories VAL restaurant 	0
+COL name VAL Oaks n' Acorns COL categories VAL kindergarten 	0
+COL name VAL Tim Hortons COL categories VAL cafe 	0
+COL name VAL East Liberty Medical Centre COL categories VAL doctors 	0
+COL name VAL All Star Driving School North York COL categories VAL driving_school 	0
+COL name VAL Muncheez COL categories VAL fast_food 	0
+COL name VAL Refelli COL categories VAL clothes 	0
