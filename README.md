@@ -27,5 +27,5 @@ Relations with corresponding ID are stored in config.py
 * AOI Search data files are stored in /data/Classification
 Data points are represented as follows:
 ```
-<entity:e> \t <label:0/1>
+<entity:e> \t <label:{0,1}>
 ```
