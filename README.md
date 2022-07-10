@@ -21,3 +21,5 @@ Triple are represented as follows:
 ```
 <entity:head> \t <entity:tail> \t <relation:r>
 ```
+
+Relations with corresponding ID are stored in config.py
