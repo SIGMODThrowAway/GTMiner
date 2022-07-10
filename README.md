@@ -32,7 +32,7 @@ Data points are represented as follows:
 
 ### Training
 To train the GTMiner Link Prediction system, please use the following command:
-
+```
 python train_GTMiner.py \
   --city sin \
   --lm bert \
@@ -45,3 +45,4 @@ python train_GTMiner.py \
   --do_extend \
   --do_repair \
   --save_model
+```
