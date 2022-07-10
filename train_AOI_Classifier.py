@@ -4,7 +4,7 @@ import config
 
 parser = argparse.ArgumentParser(description='Classifier')
 parser.add_argument("--city", type=str, default='sin', help='City dataset (sin, tor, sea, mel)')
-parser.add_argument("--fe", type=str, default='lstm')
+parser.add_argument("--fe", type=str, default='bert')
 parser.add_argument("--lr", type=float, default=3e-5)
 parser.add_argument("--alpha", type=float, default=2.0)
 parser.add_argument("--beta", type=float, default=1.0)
