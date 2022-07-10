@@ -29,3 +29,19 @@ Data points are represented as follows:
 ```
 <entity:e> \t <label:{0,1}>
 ```
+
+### Training
+To train the GTMiner Link Prediction system, please use the following command:
+
+python train_GTMiner.py \
+  --city sin \
+  --lm bert \
+  --lr 3e-5 \
+  --n_epochs 10 \
+  --batch_size 32 \
+  --max_len 128 \
+  --device cuda \
+  --finetuning \
+  --do_extend \
+  --do_repair \
+  --save_model
