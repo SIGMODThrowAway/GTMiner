@@ -59,6 +59,7 @@ python train_GTMiner.py \
 * ``--do_repair``: If this flag is set, the Refinement Repair will be applied.
 * ``--save_model``: If this flag is set, the best model on the validation set, will be saved (the path can be specified in config.py).  
 
+<br/><br/>
 
 #### To train a Classifier for Area of Interest Search, please use the following command:
 ```
