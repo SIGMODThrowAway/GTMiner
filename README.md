@@ -57,11 +57,8 @@ python train_GTMiner.py \
 * ``--finetuning``: Language models pre-trained weights can be fronzen. We strongly encourage to use finetuning, instead.
 * ``--do_extend``: If this flag is set, the Refinement Extend will be applied.
 * ``--do_repair``: If this flag is set, the Refinement Repair will be applied.
-* ``--save_model``: If this flag is set, the best model on the validation set, will be saved (the path can be specified in config.py).
+* ``--save_model``: If this flag is set, the best model on the validation set, will be saved (the path can be specified in config.py).  
 
-  
-  
-  
 
 #### To train a Classifier for Area of Interest Search, please use the following command:
 ```
