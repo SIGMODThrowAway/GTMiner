@@ -48,3 +48,13 @@ python train_GTMiner.py \
 ```
 
 * ``--city``: Specify which city's data you wish to use for training. Possible values are ``sin``, ``tor``, ``sea``, ``mel``.
+* ``--lm``: Pre-trained language model. Possible values are ``bert``, ``distilbert``, ``roberta``.
+* ``--lr``: Learning rate.
+* ``--n_epochs``: Number of epochs.
+* ``--batch_size``: Batch size.
+* ``--max_len``: Max length of the textual sequence in input to the language model.
+* ``--device``: Device, can be: ``cpu`` or ``cuda``.
+* ``--finetuning``: Language models pre-trained weights can be fronzen. We strongly encourage to use finetuning, instead.
+* ``--do_extend``: If this flag is set, the Refinement Extend will be applied.
+* ``--do_repair``: If this flag is set, the Refinement Repair will be applied.
+* ``--save_model``: If this flag is set, the best model on the validation set, will be saved (the path can be specified in config.py).
