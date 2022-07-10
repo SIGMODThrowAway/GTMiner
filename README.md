@@ -46,3 +46,5 @@ python train_GTMiner.py \
   --do_repair \
   --save_model
 ```
+
+* ``--city``: Specify which city's data you wish to use for training. Possible values are ``sin``, ``tor``, ``sea``, ``mel``.
