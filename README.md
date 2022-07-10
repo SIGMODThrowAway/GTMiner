@@ -16,3 +16,8 @@ pip install -r requirements.txt
 
 ### Data
 Knowledge Graph Completion data files are stored in /data/KGC
+Triple are represented as follows:
+
+```
+<entity:head> \t <entity:tail> \t <relation:r>
+```
