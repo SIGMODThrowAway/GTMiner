@@ -30,6 +30,8 @@ Data points are represented as follows:
 <entity:e> \t <label:{0,1}>
 ```
 
+<br/>
+
 ### Training
 #### To train the GTMiner Link Prediction system, please use the following command:
 ```
