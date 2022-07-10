@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ### Data
-Knowledge Graph Completion data files are stored in /data/KGC
+* Knowledge Graph Completion data files are stored in /data/KGC
 Triple are represented as follows:
 
 ```
@@ -23,3 +23,9 @@ Triple are represented as follows:
 ```
 
 Relations with corresponding ID are stored in config.py
+
+* AOI Search data files are stored in /data/Classification
+Data points are represented as follows:
+```
+<entity:e> \t <label:0/1>
+```
