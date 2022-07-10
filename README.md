@@ -31,7 +31,7 @@ Data points are represented as follows:
 ```
 
 ### Training
-##### To train the GTMiner Link Prediction system, please use the following command:
+#### To train the GTMiner Link Prediction system, please use the following command:
 ```
 python train_GTMiner.py \
   --city sin \
@@ -60,7 +60,9 @@ python train_GTMiner.py \
 * ``--save_model``: If this flag is set, the best model on the validation set, will be saved (the path can be specified in config.py).
 
 
-##### To train a Classifier for Area of Interest Search, please use the following command:
+
+
+#### To train a Classifier for Area of Interest Search, please use the following command:
 ```
 python train_AOI_Classifier.py \
   --city sin \
