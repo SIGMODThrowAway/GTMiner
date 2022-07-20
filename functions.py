@@ -100,6 +100,10 @@ def compute_dist(lat1, lon1, lat2, lon2):
     return str(round(R * c * 1000))
 
 
+def norm_d(x):
+    return -2*x/config.max_d_filter + 1
+
+
 def yelp_address(entity):
     if 'location' in entity:
         if 'display_address' in entity['location']:

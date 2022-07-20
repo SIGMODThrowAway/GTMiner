@@ -12,6 +12,7 @@ hidden_size = 768
 co_emb = 256
 lr = 3e-5
 error_d = 1000
+max_d_filter = 1000
 rep_thr = 0.7
 rep_diff = 0.1
 path_prefix = "data/"

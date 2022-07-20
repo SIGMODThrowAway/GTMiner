@@ -44,8 +44,8 @@ def prepare_dataset(path, max_seq_len=128, tokenizer='bert'):
             except ValueError:
                 d = config.error_d
 
-            d = -2*d/1000 + 1
-
+            d = norm_d(d)
+            
             if len(arr) > 2:
 
                 x = tokenizer.tokenize('[CLS] ' + e1 + ' [SEP] ' + e2 + ' [SEP]')
