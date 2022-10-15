@@ -27,40 +27,36 @@ def prepare_dataset(path, max_seq_len=128, tokenizer='bert'):
     data_d = []
     data_ids = []
 
-    with open(path, 'r', encoding="utf8") as f:
+    df = pd.read_csv(path, index_col=0)
+    cols = df.columns
 
-        for line in f:
+    for i in range(df.shape[0]):
 
-            arr = line.lower().split('\t')
+        this_row = df.iloc[i]
 
-            e1, lat1, lon1 = get_position(arr[0])
-            e1, id1 = drop_id(e1)
-            e2, lat2, lon2 = get_position(arr[1])
-            e2, id2 = drop_id(e2)
+        id1, lat1, lon1, e1, id2, lat2, lon2, e2 = textualize(this_row, cols)
 
-            d = compute_dist(lat1, lon1, lat2, lon2)
-            try:
-                d = int(d)
-            except ValueError:
-                d = config.error_d
+        d = compute_dist(lat1, lon1, lat2, lon2)
+        try:
+            d = int(d)
+        except ValueError:
+            d = config.error_d
 
-            d = norm_d(d)
-            
-            if len(arr) > 2:
+        d = norm_d(d)
 
-                x = tokenizer.tokenize('[CLS] ' + e1 + ' [SEP] ' + e2 + ' [SEP]')
+        x = tokenizer.tokenize('[CLS] ' + e1 + ' [SEP] ' + e2 + ' [SEP]')
 
-                y = arr[2]
+        y = int(this_row[-1])
 
-                if len(x) < max_seq_len:
-                    x = x + ['[PAD]'] * (max_seq_len - len(x))
-                else:
-                    x = x[:max_seq_len]
+        if len(x) < max_seq_len:
+            x = x + ['[PAD]'] * (max_seq_len - len(x))
+        else:
+            x = x[:max_seq_len]
 
-                data_x.append(tokenizer.convert_tokens_to_ids(x))
-                data_y.append(int(y.strip()))
-                data_d.append(d)
-                data_ids.append([id1, id2])
+        data_x.append(tokenizer.convert_tokens_to_ids(x))
+        data_y.append(y)
+        data_d.append(d)
+        data_ids.append([id1, id2])
 
     return [torch.tensor(data_x), torch.tensor(data_d), torch.tensor(data_y), data_ids]
 
@@ -71,27 +67,26 @@ def prepare_dataset_BertFE(path, max_seq_len=32):
     data_x = []
     data_y = []
 
-    with open(path, 'r') as f:
+    df = pd.read_csv(path, index_col=0)
+    cols = df.columns
 
-        for line in f:
+    for i in range(df.shape[0]):
 
-            arr = line.lower().split('\t')
+        this_row = df.iloc[i]
 
-            e1 = arr[0]
+        e1 = textualize_block(this_row, cols)
 
-            if len(arr) > 1:
+        x = tokenizer.tokenize('[CLS] ' + e1 + ' [SEP]')
 
-                x = tokenizer.tokenize('[CLS] ' + e1 + ' [SEP]')
+        y = int(this_row[-1])
 
-                y = arr[1]
+        if len(x) < max_seq_len:
+            x = x + ['[PAD]'] * (max_seq_len - len(x))
+        else:
+            x = x[:max_seq_len]
 
-                if len(x) < max_seq_len:
-                    x = x + ['[PAD]'] * (max_seq_len - len(x))
-                else:
-                    x = x[:max_seq_len]
-
-                data_x.append(tokenizer.convert_tokens_to_ids(x))
-                data_y.append(int(y.strip()))
+        data_x.append(tokenizer.convert_tokens_to_ids(x))
+        data_y.append(y)
 
     return torch.tensor(data_x), torch.tensor(data_y)
 
@@ -102,34 +97,32 @@ def prepare_dataset_LSTMFE(path, glove_model, max_seq_len=16):
 
     unk_vector = np.mean(list(glove_model.values()), axis=0)
 
-    with open(path, 'r') as f:
+    df = pd.read_csv(path, index_col=0)
+    cols = df.columns
 
-        for line in f:
+    for i in range(df.shape[0]):
 
-            arr = line.lower().split('\t')
+        this_row = df.iloc[i]
 
-            e1 = arr[0].replace('col', '').replace('val', '').replace('name', '').replace('categories', '')\
-                .replace('_', ' ').split()
+        e1 = tokenize_block(this_row, cols)
 
-            if len(arr) > 1:
+        y = int(this_row[-1])
 
-                if len(e1) < max_seq_len:
-                    e1 = e1 + ['padding'] * (max_seq_len - len(e1))
-                else:
-                    e1 = e1[:max_seq_len]
+        if len(e1) < max_seq_len:
+            e1 = e1 + ['padding'] * (max_seq_len - len(e1))
+        else:
+            e1 = e1[:max_seq_len]
 
-                y = int(arr[1])
+        x1 = []
 
-                x1 = []
+        for word in e1:
+            if word in glove_model.keys():
+                x1.append(glove_model[word])
+            else:
+                x1.append(unk_vector)
 
-                for word in e1:
-                    if word in glove_model.keys():
-                        x1.append(glove_model[word])
-                    else:
-                        x1.append(unk_vector)
-
-                data_x.append(x1)
-                data_y.append(y)
+        data_x.append(x1)
+        data_y.append(y)
 
     return torch.tensor(np.array(data_x)).double(), torch.tensor(data_y)
 
