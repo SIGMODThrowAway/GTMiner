@@ -61,6 +61,71 @@ def drop_id(entity):
     return ' '.join(words), id
 
 
+def textualize_block(row, cols):
+
+    text = ''
+    for i, col in enumerate(cols):
+        if i != len(cols) - 1:
+            text += 'COL ' + str(cols[i].split('_')[1]) + ' VAL ' + str(row[i]) + ' '
+
+    return text
+
+
+def tokenize_block(row, cols):
+
+    toks = []
+    for i, col in enumerate(cols):
+        if i != len(cols) - 1:
+            for tok in str(row[i]).split():
+                toks.append(tok.replace('_', ' '))
+
+    return toks
+
+
+
+def textualize(row, cols):
+
+    text_h = ''
+    text_t = ''
+
+    lat_h = ''
+    lat_t = ''
+
+    lon_h = ''
+    lon_t = ''
+
+    id_h = ''
+    id_t =''
+
+    for i, col in enumerate(cols):
+
+        if i != len(cols) - 1:
+
+            if cols[i].split('_')[0] == 'h':
+
+                if cols[i].split('_')[1] == 'id':
+                    id_h = str(row[i])
+                elif cols[i].split('_')[1] == 'latitude':
+                    lat_h = str(row[i])
+                elif cols[i].split('_')[1] == 'longitude':
+                    lon_h = str(row[i])
+                else:
+                    text_h += 'COL ' + str(cols[i].split('_')[1]) + ' VAL ' + str(row[i]) + ' '
+      
+            else:
+
+                if cols[i].split('_')[1] == 'id':
+                    id_t = str(row[i])
+                elif cols[i].split('_')[1] == 'latitude':
+                    lat_t = str(row[i])
+                elif cols[i].split('_')[1] == 'longitude':
+                    lon_t = str(row[i])
+                else:
+                    text_t += 'COL ' + str(cols[i].split('_')[1]) + ' VAL ' + str(row[i]) + ' '
+
+    return id_h, lat_h, lon_h, text_h, id_t, lat_t, lon_t, text_t
+
+
 def compute_dist(lat1, lon1, lat2, lon2):
 
     R = 6373.0
