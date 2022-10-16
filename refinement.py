@@ -3,6 +3,7 @@ import config
 
 
 def extend(y_pred, ids):
+
     for i in range(len(y_pred)):
 
         if y_pred[i] == config.relationships['INSIDE']:
@@ -22,9 +23,32 @@ def extend(y_pred, ids):
                             y_pred[k] = 2.0
 
                     break
+                    
+                    
+        if y_pred[i] == 1:
+            
+            for j in range(len(y_pred)):
+                
+                if ids[i][0] in ids[j] and i != j and y_pred[j] == 1:
+                
+                    if ids[i][0] == ids[j][0]:
+                        to_check = ids[j][1]
+                        
+                    else:
+                        to_check = ids[j][0]
+                    
+                    for k in range(len(y_pred)):
+                        
+                        if ids[i][1] in ids[k] and to_check in ids[k]:
+                            
+                            y_pred[k] = 1.0
+                            break
+                            
+    return
 
 
 def repair(y_pred, y_probs, ids):
+
     for i in range(len(y_pred)):
 
         if y_pred[i] == config.relationships['INSIDE']:
